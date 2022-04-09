@@ -1,0 +1,50 @@
+MongoDB shell version v5.0.6
+connecting to: mongodb://127.0.0.1:27017/nbd?compressors=disabled&gssapiServiceName=mongodb
+Implicit session: session { "id" : UUID("e7dc1aa6-d7c4-4c65-94ca-61f226935fa3") }
+MongoDB server version: 5.0.6
+{
+	"_id" : ObjectId("62517e9da7ef11a58e4af2cd"),
+	"sex" : "Male",
+	"first_name" : "Roger",
+	"last_name" : "Bryant",
+	"job" : "Media Manager II",
+	"email" : "rbryant9@yale.edu",
+	"location" : {
+		"city" : "Rocky Mountain House",
+		"address" : {
+			"streetname" : "Oak Valley",
+			"streetnumber" : "85"
+		}
+	},
+	"description" : "morbi porttitor lorem id ligula suspendisse ornare consequat lectus in",
+	"height" : "171.94",
+	"weight" : "74.3",
+	"birth_date" : "1964-06-14T12:47:03Z",
+	"nationality" : "Canada",
+	"credit" : [
+		{
+			"type" : "jcb",
+			"number" : "3557171232894212",
+			"currency" : "AUD",
+			"balance" : "7129.98"
+		},
+		{
+			"type" : "jcb",
+			"number" : "3587670076549109",
+			"currency" : "CNY",
+			"balance" : "5726.92"
+		},
+		{
+			"type" : "mastercard",
+			"number" : "5602256129203310",
+			"currency" : "PHP",
+			"balance" : "5557.43"
+		},
+		{
+			"type" : "maestro",
+			"number" : "3578389998697588",
+			"currency" : "PHP",
+			"balance" : "5044.07"
+		}
+	]
+}
