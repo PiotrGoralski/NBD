@@ -1,0 +1,371 @@
+MongoDB shell version v5.0.9
+connecting to: mongodb://127.0.0.1:27017/admin?compressors=disabled&gssapiServiceName=mongodb
+Implicit session: session { "id" : UUID("c367d1af-d637-4c5a-b4d4-4789fbb23737") }
+MongoDB server version: 5.0.9
+[
+	{
+		"Średnia ilość środków na kartach" : 5078.7283333333335,
+		"Łączna ilość środków na kartach" : 60944.74,
+		"Waluta" : "JPY"
+	},
+	{
+		"Średnia ilość środków na kartach" : 3760.89,
+		"Łączna ilość środków na kartach" : 3760.89,
+		"Waluta" : "KYD"
+	},
+	{
+		"Średnia ilość środków na kartach" : 4570.833333333333,
+		"Łączna ilość środków na kartach" : 13712.5,
+		"Waluta" : "YER"
+	},
+	{
+		"Średnia ilość środków na kartach" : 4853.663333333333,
+		"Łączna ilość środków na kartach" : 14560.99,
+		"Waluta" : "MGA"
+	},
+	{
+		"Średnia ilość środków na kartach" : 5960.683333333333,
+		"Łączna ilość środków na kartach" : 17882.05,
+		"Waluta" : "XOF"
+	},
+	{
+		"Średnia ilość środków na kartach" : 5005.78,
+		"Łączna ilość środków na kartach" : 15017.34,
+		"Waluta" : "CUP"
+	},
+	{
+		"Średnia ilość środków na kartach" : 5286.68,
+		"Łączna ilość środków na kartach" : 5286.68,
+		"Waluta" : "SRD"
+	},
+	{
+		"Średnia ilość środków na kartach" : 4276.56,
+		"Łączna ilość środków na kartach" : 4276.56,
+		"Waluta" : "RSD"
+	},
+	{
+		"Średnia ilość środków na kartach" : 3930.306666666667,
+		"Łączna ilość środków na kartach" : 11790.92,
+		"Waluta" : "ZAR"
+	},
+	{
+		"Średnia ilość środków na kartach" : 4087.71,
+		"Łączna ilość środków na kartach" : 4087.71,
+		"Waluta" : "TJS"
+	},
+	{
+		"Średnia ilość środków na kartach" : 5431.83,
+		"Łączna ilość środków na kartach" : 16295.49,
+		"Waluta" : "ILS"
+	},
+	{
+		"Średnia ilość środków na kartach" : 5168.6849999999995,
+		"Łączna ilość środków na kartach" : 20674.739999999998,
+		"Waluta" : "DOP"
+	},
+	{
+		"Średnia ilość środków na kartach" : 4698.22,
+		"Łączna ilość środków na kartach" : 14094.66,
+		"Waluta" : "XAF"
+	},
+	{
+		"Średnia ilość środków na kartach" : 5328.46,
+		"Łączna ilość środków na kartach" : 5328.46,
+		"Waluta" : "NZD"
+	},
+	{
+		"Średnia ilość środków na kartach" : 5504.863333333334,
+		"Łączna ilość środków na kartach" : 16514.59,
+		"Waluta" : "HNL"
+	},
+	{
+		"Średnia ilość środków na kartach" : 5058.9800000000005,
+		"Łączna ilość środków na kartach" : 40471.840000000004,
+		"Waluta" : "UAH"
+	},
+	{
+		"Średnia ilość środków na kartach" : 4936.6825,
+		"Łączna ilość środków na kartach" : 19746.73,
+		"Waluta" : "COP"
+	},
+	{
+		"Średnia ilość środków na kartach" : 4382.495,
+		"Łączna ilość środków na kartach" : 8764.99,
+		"Waluta" : "LYD"
+	},
+	{
+		"Średnia ilość środków na kartach" : 4644.5525,
+		"Łączna ilość środków na kartach" : 37156.42,
+		"Waluta" : "CZK"
+	},
+	{
+		"Średnia ilość środków na kartach" : 4907.918030303031,
+		"Łączna ilość środków na kartach" : 323922.59,
+		"Waluta" : "IDR"
+	},
+	{
+		"Średnia ilość środków na kartach" : 5042.821111111111,
+		"Łączna ilość środków na kartach" : 90770.78,
+		"Waluta" : "PLN"
+	},
+	{
+		"Średnia ilość środków na kartach" : 3818.85,
+		"Łączna ilość środków na kartach" : 3818.85,
+		"Waluta" : "MAD"
+	},
+	{
+		"Średnia ilość środków na kartach" : 3573.03,
+		"Łączna ilość środków na kartach" : 3573.03,
+		"Waluta" : "UZS"
+	},
+	{
+		"Średnia ilość środków na kartach" : 3526.1850000000004,
+		"Łączna ilość środków na kartach" : 7052.370000000001,
+		"Waluta" : "TZS"
+	},
+	{
+		"Średnia ilość środków na kartach" : 4773.66,
+		"Łączna ilość środków na kartach" : 4773.66,
+		"Waluta" : "NOK"
+	},
+	{
+		"Średnia ilość środków na kartach" : 5579.3,
+		"Łączna ilość środków na kartach" : 5579.3,
+		"Waluta" : "EGP"
+	},
+	{
+		"Średnia ilość środków na kartach" : 4759.07,
+		"Łączna ilość środków na kartach" : 4759.07,
+		"Waluta" : "XPF"
+	},
+	{
+		"Średnia ilość środków na kartach" : 5300.22,
+		"Łączna ilość środków na kartach" : 21200.88,
+		"Waluta" : "BGN"
+	},
+	{
+		"Średnia ilość środków na kartach" : 4648.4,
+		"Łączna ilość środków na kartach" : 23242,
+		"Waluta" : "ARS"
+	},
+	{
+		"Średnia ilość środków na kartach" : 6418.27,
+		"Łączna ilość środków na kartach" : 6418.27,
+		"Waluta" : "VUV"
+	},
+	{
+		"Średnia ilość środków na kartach" : 4874.69,
+		"Łączna ilość środków na kartach" : 4874.69,
+		"Waluta" : "PYG"
+	},
+	{
+		"Średnia ilość środków na kartach" : 5252.2375,
+		"Łączna ilość środków na kartach" : 21008.95,
+		"Waluta" : "CLP"
+	},
+	{
+		"Średnia ilość środków na kartach" : 4157.705,
+		"Łączna ilość środków na kartach" : 24946.23,
+		"Waluta" : "NGN"
+	},
+	{
+		"Średnia ilość środków na kartach" : 4985.64,
+		"Łączna ilość środków na kartach" : 9971.28,
+		"Waluta" : "NIO"
+	},
+	{
+		"Średnia ilość środków na kartach" : 4512.001818181819,
+		"Łączna ilość środków na kartach" : 49632.020000000004,
+		"Waluta" : "BRL"
+	},
+	{
+		"Średnia ilość środków na kartach" : 4781.12,
+		"Łączna ilość środków na kartach" : 4781.12,
+		"Waluta" : "MYR"
+	},
+	{
+		"Średnia ilość środków na kartach" : 5792.26,
+		"Łączna ilość środków na kartach" : 5792.26,
+		"Waluta" : "NPR"
+	},
+	{
+		"Średnia ilość środków na kartach" : 3574.42,
+		"Łączna ilość środków na kartach" : 3574.42,
+		"Waluta" : "MWK"
+	},
+	{
+		"Średnia ilość środków na kartach" : 5060.013571428572,
+		"Łączna ilość środków na kartach" : 70840.19,
+		"Waluta" : "SEK"
+	},
+	{
+		"Średnia ilość środków na kartach" : 4629.42,
+		"Łączna ilość środków na kartach" : 4629.42,
+		"Waluta" : "MMK"
+	},
+	{
+		"Średnia ilość środków na kartach" : 4921.866,
+		"Łączna ilość środków na kartach" : 24609.33,
+		"Waluta" : "AMD"
+	},
+	{
+		"Średnia ilość środków na kartach" : 4520.0325,
+		"Łączna ilość środków na kartach" : 36160.26,
+		"Waluta" : "VND"
+	},
+	{
+		"Średnia ilość środków na kartach" : 3788.95,
+		"Łączna ilość środków na kartach" : 3788.95,
+		"Waluta" : "KZT"
+	},
+	{
+		"Średnia ilość środków na kartach" : 5585.163333333334,
+		"Łączna ilość środków na kartach" : 16755.49,
+		"Waluta" : "AFN"
+	},
+	{
+		"Średnia ilość środków na kartach" : 4954.740842105263,
+		"Łączna ilość środków na kartach" : 470700.38,
+		"Waluta" : "CNY"
+	},
+	{
+		"Średnia ilość środków na kartach" : 4632.88,
+		"Łączna ilość środków na kartach" : 4632.88,
+		"Waluta" : "RWF"
+	},
+	{
+		"Średnia ilość środków na kartach" : 4604.392,
+		"Łączna ilość środków na kartach" : 23021.96,
+		"Waluta" : "THB"
+	},
+	{
+		"Średnia ilość środków na kartach" : 5569.56,
+		"Łączna ilość środków na kartach" : 5569.56,
+		"Waluta" : "ZMW"
+	},
+	{
+		"Średnia ilość środków na kartach" : 4941.928333333333,
+		"Łączna ilość środków na kartach" : 118606.28,
+		"Waluta" : "PHP"
+	},
+	{
+		"Średnia ilość środków na kartach" : 4901.8294,
+		"Łączna ilość środków na kartach" : 245091.47,
+		"Waluta" : "EUR"
+	},
+	{
+		"Średnia ilość środków na kartach" : 6689.91,
+		"Łączna ilość środków na kartach" : 13379.82,
+		"Waluta" : "KRW"
+	},
+	{
+		"Średnia ilość środków na kartach" : 5436.11,
+		"Łączna ilość środków na kartach" : 5436.11,
+		"Waluta" : "ETB"
+	},
+	{
+		"Średnia ilość środków na kartach" : 4076.29,
+		"Łączna ilość środków na kartach" : 4076.29,
+		"Waluta" : "BWP"
+	},
+	{
+		"Średnia ilość środków na kartach" : 4734.5,
+		"Łączna ilość środków na kartach" : 18938,
+		"Waluta" : "PKR"
+	},
+	{
+		"Średnia ilość środków na kartach" : 4870.964,
+		"Łączna ilość środków na kartach" : 24354.82,
+		"Waluta" : "HRK"
+	},
+	{
+		"Średnia ilość środków na kartach" : 6114.4,
+		"Łączna ilość środków na kartach" : 12228.8,
+		"Waluta" : "CDF"
+	},
+	{
+		"Średnia ilość środków na kartach" : 5792.17,
+		"Łączna ilość środków na kartach" : 5792.17,
+		"Waluta" : "ZWL"
+	},
+	{
+		"Średnia ilość środków na kartach" : 4645.469999999999,
+		"Łączna ilość środków na kartach" : 23227.35,
+		"Waluta" : "PEN"
+	},
+	{
+		"Średnia ilość środków na kartach" : 4166.64,
+		"Łączna ilość środków na kartach" : 8333.28,
+		"Waluta" : "VEF"
+	},
+	{
+		"Średnia ilość środków na kartach" : 3835.05,
+		"Łączna ilość środków na kartach" : 3835.05,
+		"Waluta" : "MKD"
+	},
+	{
+		"Średnia ilość środków na kartach" : 5040.66875,
+		"Łączna ilość środków na kartach" : 80650.7,
+		"Waluta" : "USD"
+	},
+	{
+		"Średnia ilość środków na kartach" : 5306.872727272727,
+		"Łączna ilość środków na kartach" : 58375.6,
+		"Waluta" : "CAD"
+	},
+	{
+		"Średnia ilość środków na kartach" : 4269.39,
+		"Łączna ilość środków na kartach" : 4269.39,
+		"Waluta" : "IQD"
+	},
+	{
+		"Średnia ilość środków na kartach" : 6149.19,
+		"Łączna ilość środków na kartach" : 6149.19,
+		"Waluta" : "GBP"
+	},
+	{
+		"Średnia ilość środków na kartach" : 5806.3,
+		"Łączna ilość środków na kartach" : 5806.3,
+		"Waluta" : "GTQ"
+	},
+	{
+		"Średnia ilość środków na kartach" : 5428.9025,
+		"Łączna ilość środków na kartach" : 21715.61,
+		"Waluta" : "MNT"
+	},
+	{
+		"Średnia ilość środków na kartach" : 5263.3,
+		"Łączna ilość środków na kartach" : 5263.3,
+		"Waluta" : "BOB"
+	},
+	{
+		"Średnia ilość środków na kartach" : 4417.373333333333,
+		"Łączna ilość środków na kartach" : 26504.239999999998,
+		"Waluta" : "IRR"
+	},
+	{
+		"Średnia ilość środków na kartach" : 3325.48,
+		"Łączna ilość środków na kartach" : 3325.48,
+		"Waluta" : "ALL"
+	},
+	{
+		"Średnia ilość środków na kartach" : 4316.41,
+		"Łączna ilość środków na kartach" : 4316.41,
+		"Waluta" : "ISK"
+	},
+	{
+		"Średnia ilość środków na kartach" : 5095.79,
+		"Łączna ilość środków na kartach" : 5095.79,
+		"Waluta" : "BYR"
+	},
+	{
+		"Średnia ilość środków na kartach" : 4989.547916666666,
+		"Łączna ilość środków na kartach" : 119749.15,
+		"Waluta" : "RUB"
+	},
+	{
+		"Średnia ilość środków na kartach" : 5022.9,
+		"Łączna ilość środków na kartach" : 50229,
+		"Waluta" : "MXN"
+	}
+]

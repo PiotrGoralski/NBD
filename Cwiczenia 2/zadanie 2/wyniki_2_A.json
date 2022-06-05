@@ -1,0 +1,622 @@
+MongoDB shell version v5.0.9
+connecting to: mongodb://127.0.0.1:27017/admin?compressors=disabled&gssapiServiceName=mongodb
+Implicit session: session { "id" : UUID("9ed75863-8271-4049-8adb-bc119dd0b3d3") }
+MongoDB server version: 5.0.9
+[
+	{
+		"Waluta" : "KHR",
+		"Łączna ilość pozostałych środków" : 100447.58
+	},
+	{
+		"Waluta" : "ISK",
+		"Łączna ilość pozostałych środków" : 39048.74
+	},
+	{
+		"Waluta" : "DZD",
+		"Łączna ilość pozostałych środków" : 12166.2
+	},
+	{
+		"Waluta" : "ALL",
+		"Łączna ilość pozostałych środków" : 655866.63
+	},
+	{
+		"Waluta" : "BOB",
+		"Łączna ilość pozostałych środków" : 257433.54
+	},
+	{
+		"Waluta" : "GTQ",
+		"Łączna ilość pozostałych środków" : 597758.09
+	},
+	{
+		"Waluta" : "MXN",
+		"Łączna ilość pozostałych środków" : 1568281.9
+	},
+	{
+		"Waluta" : "JPY",
+		"Łączna ilość pozostałych środków" : 2601019.27
+	},
+	{
+		"Waluta" : "RUB",
+		"Łączna ilość pozostałych środków" : 8648162.27
+	},
+	{
+		"Waluta" : "USD",
+		"Łączna ilość pozostałych środków" : 4154939.09
+	},
+	{
+		"Waluta" : "UGX",
+		"Łączna ilość pozostałych środków" : 345203.25
+	},
+	{
+		"Waluta" : "CVE",
+		"Łączna ilość pozostałych środków" : 46538.51
+	},
+	{
+		"Waluta" : "IQD",
+		"Łączna ilość pozostałych środków" : 167531.82
+	},
+	{
+		"Waluta" : "STD",
+		"Łączna ilość pozostałych środków" : 4854.36
+	},
+	{
+		"Waluta" : "CAD",
+		"Łączna ilość pozostałych środków" : 1998158.32
+	},
+	{
+		"Waluta" : "SAR",
+		"Łączna ilość pozostałych środków" : 161706
+	},
+	{
+		"Waluta" : "TTD",
+		"Łączna ilość pozostałych środków" : 44044.89
+	},
+	{
+		"Waluta" : "SLL",
+		"Łączna ilość pozostałych środków" : 116224.9
+	},
+	{
+		"Waluta" : "INR",
+		"Łączna ilość pozostałych środków" : 24172.940000000002
+	},
+	{
+		"Waluta" : "PKR",
+		"Łączna ilość pozostałych środków" : 687770.55
+	},
+	{
+		"Waluta" : "CDF",
+		"Łączna ilość pozostałych środków" : 178097.37
+	},
+	{
+		"Waluta" : "HRK",
+		"Łączna ilość pozostałych środków" : 699650.32
+	},
+	{
+		"Waluta" : "ETB",
+		"Łączna ilość pozostałych środków" : 273507.6
+	},
+	{
+		"Waluta" : "SZL",
+		"Łączna ilość pozostałych środków" : 59113.090000000004
+	},
+	{
+		"Waluta" : "KRW",
+		"Łączna ilość pozostałych środków" : 446738.59
+	},
+	{
+		"Waluta" : "PGK",
+		"Łączna ilość pozostałych środków" : 61445.270000000004
+	},
+	{
+		"Waluta" : "BSD",
+		"Łączna ilość pozostałych środków" : 55361.39
+	},
+	{
+		"Waluta" : "WST",
+		"Łączna ilość pozostałych środków" : 30739.64
+	},
+	{
+		"Waluta" : "PEN",
+		"Łączna ilość pozostałych środków" : 2381759.99
+	},
+	{
+		"Waluta" : "VND",
+		"Łączna ilość pozostałych środków" : 1418903.3699999999
+	},
+	{
+		"Waluta" : "BIF",
+		"Łączna ilość pozostałych środków" : 45782.33
+	},
+	{
+		"Waluta" : "TND",
+		"Łączna ilość pozostałych środków" : 325755.9
+	},
+	{
+		"Waluta" : "AUD",
+		"Łączna ilość pozostałych środków" : 242667.03
+	},
+	{
+		"Waluta" : "MWK",
+		"Łączna ilość pozostałych środków" : 88106.83
+	},
+	{
+		"Waluta" : "LBP",
+		"Łączna ilość pozostałych środków" : 43326.06
+	},
+	{
+		"Waluta" : "ZMW",
+		"Łączna ilość pozostałych środków" : 160940.53
+	},
+	{
+		"Waluta" : "PHP",
+		"Łączna ilość pozostałych środków" : 8354757.95
+	},
+	{
+		"Waluta" : "PAB",
+		"Łączna ilość pozostałych środków" : 363643.61
+	},
+	{
+		"Waluta" : "THB",
+		"Łączna ilość pozostałych środków" : 2103307.17
+	},
+	{
+		"Waluta" : "SCR",
+		"Łączna ilość pozostałych środków" : 14797.58
+	},
+	{
+		"Waluta" : "JMD",
+		"Łączna ilość pozostałych środków" : 201447.71
+	},
+	{
+		"Waluta" : "EGP",
+		"Łączna ilość pozostałych środków" : 538164.28
+	},
+	{
+		"Waluta" : "PYG",
+		"Łączna ilość pozostałych środków" : 291487.63
+	},
+	{
+		"Waluta" : "KMF",
+		"Łączna ilość pozostałych środków" : 138004.7
+	},
+	{
+		"Waluta" : "TMT",
+		"Łączna ilość pozostałych środków" : 113099.62
+	},
+	{
+		"Waluta" : "NIO",
+		"Łączna ilość pozostałych środków" : 263374.09
+	},
+	{
+		"Waluta" : "CHF",
+		"Łączna ilość pozostałych środków" : 108940.64
+	},
+	{
+		"Waluta" : "CLP",
+		"Łączna ilość pozostałych środków" : 403957.97000000003
+	},
+	{
+		"Waluta" : "GMD",
+		"Łączna ilość pozostałych środków" : 157963.9
+	},
+	{
+		"Waluta" : "UYU",
+		"Łączna ilość pozostałych środków" : 237715.67
+	},
+	{
+		"Waluta" : "JOD",
+		"Łączna ilość pozostałych środków" : 214942.07
+	},
+	{
+		"Waluta" : "AZN",
+		"Łączna ilość pozostałych środków" : 403856.73
+	},
+	{
+		"Waluta" : "TWD",
+		"Łączna ilość pozostałych środków" : 37654
+	},
+	{
+		"Waluta" : "OMR",
+		"Łączna ilość pozostałych środków" : 87008.08
+	},
+	{
+		"Waluta" : "IDR",
+		"Łączna ilość pozostałych środków" : 15803638.67
+	},
+	{
+		"Waluta" : "LYD",
+		"Łączna ilość pozostałych środków" : 197545.65
+	},
+	{
+		"Waluta" : "HTG",
+		"Łączna ilość pozostałych środków" : 215992.13
+	},
+	{
+		"Waluta" : "NOK",
+		"Łączna ilość pozostałych środków" : 776758.6
+	},
+	{
+		"Waluta" : "BZD",
+		"Łączna ilość pozostałych środków" : 27742.45
+	},
+	{
+		"Waluta" : "BMD",
+		"Łączna ilość pozostałych środków" : 5189
+	},
+	{
+		"Waluta" : "TZS",
+		"Łączna ilość pozostałych środków" : 617053.52
+	},
+	{
+		"Waluta" : "MAD",
+		"Łączna ilość pozostałych środków" : 516264.06
+	},
+	{
+		"Waluta" : "BND",
+		"Łączna ilość pozostałych środków" : 7782.66
+	},
+	{
+		"Waluta" : "XCD",
+		"Łączna ilość pozostałych środków" : 168150.01
+	},
+	{
+		"Waluta" : "ILS",
+		"Łączna ilość pozostałych środków" : 766163.99
+	},
+	{
+		"Waluta" : "SYP",
+		"Łączna ilość pozostałych środków" : 511625.27
+	},
+	{
+		"Waluta" : "DOP",
+		"Łączna ilość pozostałych środków" : 538809.21
+	},
+	{
+		"Waluta" : "MOP",
+		"Łączna ilość pozostałych środków" : 5337.77
+	},
+	{
+		"Waluta" : "HNL",
+		"Łączna ilość pozostałych środków" : 817695.24
+	},
+	{
+		"Waluta" : "SBD",
+		"Łączna ilość pozostałych środków" : 9983
+	},
+	{
+		"Waluta" : "BHD",
+		"Łączna ilość pozostałych środków" : 22698.46
+	},
+	{
+		"Waluta" : "ANG",
+		"Łączna ilość pozostałych środków" : 21354.39
+	},
+	{
+		"Waluta" : "ZAR",
+		"Łączna ilość pozostałych środków" : 947722.84
+	},
+	{
+		"Waluta" : "MUR",
+		"Łączna ilość pozostałych środków" : 182130.48
+	},
+	{
+		"Waluta" : "AED",
+		"Łączna ilość pozostałych środków" : 52973.33
+	},
+	{
+		"Waluta" : "MZN",
+		"Łączna ilość pozostałych środków" : 92068.64
+	},
+	{
+		"Waluta" : "GNF",
+		"Łączna ilość pozostałych środków" : 73222.48
+	},
+	{
+		"Waluta" : "IRR",
+		"Łączna ilość pozostałych środków" : 804397.05
+	},
+	{
+		"Waluta" : "MNT",
+		"Łączna ilość pozostałych środków" : 644907.42
+	},
+	{
+		"Waluta" : "ERN",
+		"Łączna ilość pozostałych środków" : 21598.47
+	},
+	{
+		"Waluta" : "GBP",
+		"Łączna ilość pozostałych środków" : 243512.86
+	},
+	{
+		"Waluta" : "LKR",
+		"Łączna ilość pozostałych środków" : 225111.38999999998
+	},
+	{
+		"Waluta" : "LTL",
+		"Łączna ilość pozostałych środków" : 230882.59
+	},
+	{
+		"Waluta" : "DJF",
+		"Łączna ilość pozostałych środków" : 14734.27
+	},
+	{
+		"Waluta" : "SGD",
+		"Łączna ilość pozostałych środków" : 12820.48
+	},
+	{
+		"Waluta" : "BYR",
+		"Łączna ilość pozostałych środków" : 693053.85
+	},
+	{
+		"Waluta" : "BBD",
+		"Łączna ilość pozostałych środków" : 26720.5
+	},
+	{
+		"Waluta" : "SSP",
+		"Łączna ilość pozostałych środków" : 42256.53
+	},
+	{
+		"Waluta" : "MKD",
+		"Łączna ilość pozostałych środków" : 446949.89
+	},
+	{
+		"Waluta" : "VEF",
+		"Łączna ilość pozostałych środków" : 638306.07
+	},
+	{
+		"Waluta" : "GEL",
+		"Łączna ilość pozostałych środków" : 157276.96
+	},
+	{
+		"Waluta" : "GYD",
+		"Łączna ilość pozostałych środków" : 13053.5
+	},
+	{
+		"Waluta" : "MRO",
+		"Łączna ilość pozostałych środków" : 54117.17
+	},
+	{
+		"Waluta" : "ZWL",
+		"Łączna ilość pozostałych środków" : 147943.58
+	},
+	{
+		"Waluta" : "AWG",
+		"Łączna ilość pozostałych środków" : 7282.73
+	},
+	{
+		"Waluta" : "BWP",
+		"Łączna ilość pozostałych środków" : 146972.04
+	},
+	{
+		"Waluta" : "EUR",
+		"Łączna ilość pozostałych środków" : 16913519.13
+	},
+	{
+		"Waluta" : "LSL",
+		"Łączna ilość pozostałych środków" : 26269.07
+	},
+	{
+		"Waluta" : "KZT",
+		"Łączna ilość pozostałych środków" : 601904.37
+	},
+	{
+		"Waluta" : "LRD",
+		"Łączna ilość pozostałych środków" : 54883.45
+	},
+	{
+		"Waluta" : "AMD",
+		"Łączna ilość pozostałych środków" : 628234.91
+	},
+	{
+		"Waluta" : "MMK",
+		"Łączna ilość pozostałych środków" : 226778.17
+	},
+	{
+		"Waluta" : "SEK",
+		"Łączna ilość pozostałych środków" : 3738579.57
+	},
+	{
+		"Waluta" : "MYR",
+		"Łączna ilość pozostałych środków" : 671978.45
+	},
+	{
+		"Waluta" : "NPR",
+		"Łączna ilość pozostałych środków" : 146606.65
+	},
+	{
+		"Waluta" : "MDL",
+		"Łączna ilość pozostałych środków" : 173318.73
+	},
+	{
+		"Waluta" : "KPW",
+		"Łączna ilość pozostałych środków" : 227902.01
+	},
+	{
+		"Waluta" : "RWF",
+		"Łączna ilość pozostałych środków" : 43299.96
+	},
+	{
+		"Waluta" : "BDT",
+		"Łączna ilość pozostałych środków" : 294843.38
+	},
+	{
+		"Waluta" : "BTN",
+		"Łączna ilość pozostałych środków" : 37711.08
+	},
+	{
+		"Waluta" : "TOP",
+		"Łączna ilość pozostałych środków" : 18424.47
+	},
+	{
+		"Waluta" : "AFN",
+		"Łączna ilość pozostałych środków" : 677925.57
+	},
+	{
+		"Waluta" : "CNY",
+		"Łączna ilość pozostałych środków" : 27776263.33
+	},
+	{
+		"Waluta" : "HKD",
+		"Łączna ilość pozostałych środków" : 23023.02
+	},
+	{
+		"Waluta" : "FKP",
+		"Łączna ilość pozostałych środków" : 5118.97
+	},
+	{
+		"Waluta" : "NAD",
+		"Łączna ilość pozostałych środków" : 55420.34
+	},
+	{
+		"Waluta" : "TRY",
+		"Łączna ilość pozostałych środków" : 18414.53
+	},
+	{
+		"Waluta" : "ARS",
+		"Łączna ilość pozostałych środków" : 1967570.17
+	},
+	{
+		"Waluta" : "VUV",
+		"Łączna ilość pozostałych środków" : 23188.93
+	},
+	{
+		"Waluta" : "BGN",
+		"Łączna ilość pozostałych środków" : 502248.52
+	},
+	{
+		"Waluta" : "XPF",
+		"Łączna ilość pozostałych środków" : 132926.01
+	},
+	{
+		"Waluta" : "FJD",
+		"Łączna ilość pozostałych środków" : 9321.43
+	},
+	{
+		"Waluta" : "RON",
+		"Łączna ilość pozostałych środków" : 11557.6
+	},
+	{
+		"Waluta" : "BRL",
+		"Łączna ilość pozostałych środków" : 5676516.76
+	},
+	{
+		"Waluta" : "NGN",
+		"Łączna ilość pozostałych środków" : 1301224.95
+	},
+	{
+		"Waluta" : "CZK",
+		"Łączna ilość pozostałych środków" : 2668722.74
+	},
+	{
+		"Waluta" : "COP",
+		"Łączna ilość pozostałych środków" : 1980543.49
+	},
+	{
+		"Waluta" : "CRC",
+		"Łączna ilość pozostałych środków" : 334544.06
+	},
+	{
+		"Waluta" : "KGS",
+		"Łączna ilość pozostałych środków" : 176827.79
+	},
+	{
+		"Waluta" : "UZS",
+		"Łączna ilość pozostałych środków" : 334451.77
+	},
+	{
+		"Waluta" : "KES",
+		"Łączna ilość pozostałych środków" : 273491.26
+	},
+	{
+		"Waluta" : "PLN",
+		"Łączna ilość pozostałych środków" : 5127210.21
+	},
+	{
+		"Waluta" : "XAF",
+		"Łączna ilość pozostałych środków" : 754247.57
+	},
+	{
+		"Waluta" : "KWD",
+		"Łączna ilość pozostałych środków" : 88501.85
+	},
+	{
+		"Waluta" : "TJS",
+		"Łączna ilość pozostałych środków" : 177401.05
+	},
+	{
+		"Waluta" : "LAK",
+		"Łączna ilość pozostałych środków" : 86305.05
+	},
+	{
+		"Waluta" : "SOS",
+		"Łączna ilość pozostałych środków" : 82203.48
+	},
+	{
+		"Waluta" : "UAH",
+		"Łączna ilość pozostałych środków" : 2531920.9
+	},
+	{
+		"Waluta" : "BAM",
+		"Łączna ilość pozostałych środków" : 415965.47
+	},
+	{
+		"Waluta" : "AOA",
+		"Łączna ilość pozostałych środków" : 67582.8
+	},
+	{
+		"Waluta" : "NZD",
+		"Łączna ilość pozostałych środków" : 355832.98
+	},
+	{
+		"Waluta" : "CUP",
+		"Łączna ilość pozostałych środków" : 517904.09
+	},
+	{
+		"Waluta" : "QAR",
+		"Łączna ilość pozostałych środków" : 36358.92
+	},
+	{
+		"Waluta" : "MGA",
+		"Łączna ilość pozostałych środków" : 382347.12
+	},
+	{
+		"Waluta" : "XOF",
+		"Łączna ilość pozostałych środków" : 944111.3
+	},
+	{
+		"Waluta" : "HUF",
+		"Łączna ilość pozostałych środków" : 165192.16
+	},
+	{
+		"Waluta" : "YER",
+		"Łączna ilość pozostałych środków" : 583657.38
+	},
+	{
+		"Waluta" : "KYD",
+		"Łączna ilość pozostałych środków" : 16809.66
+	},
+	{
+		"Waluta" : "MVR",
+		"Łączna ilość pozostałych środków" : 32068.850000000002
+	},
+	{
+		"Waluta" : "SDG",
+		"Łączna ilość pozostałych środków" : 134649.56
+	},
+	{
+		"Waluta" : "GHS",
+		"Łączna ilość pozostałych środków" : 83159.05
+	},
+	{
+		"Waluta" : "SRD",
+		"Łączna ilość pozostałych środków" : 19686.77
+	},
+	{
+		"Waluta" : "RSD",
+		"Łączna ilość pozostałych środków" : 822119.3
+	},
+	{
+		"Waluta" : "DKK",
+		"Łączna ilość pozostałych środków" : 225770.32
+	}
+]
