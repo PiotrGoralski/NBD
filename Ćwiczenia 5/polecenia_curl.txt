@@ -1,0 +1,33 @@
+Zadanie 1
+curl -XPOST -i -H "Content-Type: application/json" -d '{"brand": "BMW", "production-year": 2020, "need-fix": true, "fuel-consumption": 9.50}' http://172.17.0.2:8098/buckets/s17235/keys/car1
+curl -XPOST -i -H "Content-Type: application/json" -d '{"brand": "Audi", "production-year": 2021, "need-fix": false, "fuel-consumption": 7.50}' http://172.17.0.2:8098/buckets/s17235/keys/car2
+curl -XPOST -i -H "Content-Type: application/json" -d '{"brand": "Fiat", "production-year": 2010, "need-fix": true, "fuel-consumption": 5.00}' http://172.17.0.2:8098/buckets/s17235/keys/car3
+curl -XPOST -i -H "Content-Type: application/json" -d '{"brand": "Mercedes", "production-year": 2004, "need-fix": false, "fuel-consumption": 12.30}' http://172.17.0.2:8098/buckets/s17235/keys/car4
+curl -XPOST -i -H "Content-Type: application/json" -d '{"brand": "Ferrari", "production-year": 2022, "need-fix": false, "fuel-consumption": 16.77}' http://172.17.0.2:8098/buckets/s17235/keys/car5
+
+Zadanie 2
+curl -XGET -i http://172.17.0.2:8098/buckets/s17235/keys/car1
+
+Zadanie 3
+curl -XPUT -i -H "Content-Type: application/json" -d '{"brand": "BMW", "production-year": 2020, "need-fix": true, "fuel-consumption": 9.50, "is-for-sale": true}' http://172.17.0.2:8098/buckets/s17235/keys/car1
+
+Zadanie 4
+curl -XPUT -i -H "Content-Type: application/json" -d '{"brand": "Audi", "production-year": 2021, "need-fix": false}' http://172.17.0.2:8098/buckets/s17235/keys/car2
+
+Zadanie 5
+curl -XPUT -i -H "Content-Type: application/json" -d '{"brand": "Fiat", "production-year": 2010, "need-fix": false, "fuel-consumption": 5.00}' http://172.17.0.2:8098/buckets/s17235/keys/car3
+
+Zadanie 6
+curl -XDELETE -i http://172.17.0.2:8098/buckets/s17235/keys/car4
+
+Zadanie 7
+curl -XGET -i http://172.17.0.2:8098/buckets/s17235/keys/car999
+
+Zadanie 8
+curl -XPOST -i -H "Content-Type: application/json" -d '{"brand": "Honda"}' http://172.17.0.2:8098/buckets/s17235/keys/
+
+Zadanie 9
+curl -XGET -i http://172.17.0.2:8098/buckets/s17235/keys/KZ8FLMmabEU02JEouLN8IcyFxtS
+
+Zadanie 10
+curl -XDELETE -i http://172.17.0.2:8098/buckets/s17235/keys/KZ8FLMmabEU02JEouLN8IcyFxtS

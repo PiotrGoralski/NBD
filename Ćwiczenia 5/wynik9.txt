@@ -1,0 +1,12 @@
+HTTP/1.1 200 OK
+X-Riak-Vclock: a85hYGBgzGDKBVI8+xkWvi+bI7oRIpTImMfKoHxZ7A5fFgA=
+Vary: Accept-Encoding
+Server: MochiWeb/1.1 WebMachine/1.10.9 (cafe not found)
+Link: </buckets/s17235>; rel="up"
+Last-Modified: Thu, 09 Jun 2022 20:25:07 GMT
+ETag: "4PxXCwYtEebNf9pT9ucXJD"
+Date: Thu, 09 Jun 2022 20:26:16 GMT
+Content-Type: application/json
+Content-Length: 18
+
+{"brand": "Honda"}

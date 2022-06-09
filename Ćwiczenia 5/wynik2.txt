@@ -1,0 +1,12 @@
+HTTP/1.1 200 OK
+X-Riak-Vclock: a85hYGBgzGDKBVI8+xkWvi+be20GRCiRMY+VYfs5sTt8WQA=
+Vary: Accept-Encoding
+Server: MochiWeb/1.1 WebMachine/1.10.9 (cafe not found)
+Link: </buckets/s17235>; rel="up"
+Last-Modified: Thu, 09 Jun 2022 20:06:15 GMT
+ETag: "2hWZF85TAYIjmRtoKBOJGD"
+Date: Thu, 09 Jun 2022 20:12:00 GMT
+Content-Type: application/json
+Content-Length: 85
+
+{"brand": "BMW", "production-year": 2020, "need-fix": true, "fuel-consumption": 9.50}
