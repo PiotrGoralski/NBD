@@ -1,0 +1,65 @@
+Zadanie 1
+MATCH (darjeeling:town { name: "Darjeeling" }), (sandakphu:peak { name: "Sandakphu" })
+MATCH path = ShortestPath((darjeeling)-[*]->(sandakphu))
+RETURN path
+
+Zadanie 2
+MATCH (darjeeling:town { name: "Darjeeling" }), (sandakphu:peak { name: "Sandakphu" })
+MATCH path = ShortestPath((darjeeling)-[*]->(sandakphu))
+WHERE ALL (segment IN relationships(path) WHERE segment.winter = "true")
+RETURN path
+
+Zadanie 3
+MATCH path = (darjeeling:town { name: "Darjeeling" })-[relations*]->(sandakphu:peak { name: "Sandakphu" })
+RETURN [segment IN relationships(path) | segment.name + " - " + type(segment)], REDUCE(partialResult = 0, relation IN relations | partialResult + relation.distance) AS distance
+ORDER BY distance
+
+Zadanie 4
+MATCH path = (darjeeling:town { name: "Darjeeling" })-[:twowheeler*]->(location)
+WHERE ALL (segment IN relationships(path) WHERE segment.summer = 'true')
+RETURN location
+
+Zadanie 5
+MATCH (flight:Flight) - [:ORIGIN] -> (airport:Airport)
+WITH airport, count(flight) as flights_number
+RETURN airport.name, flights_number
+ORDER BY flights_number ASC
+
+Zadanie 6
+MATCH path = (airport_origin:Airport { name:"LAX" }) <- [:ORIGIN] - (:Flight) - [:ORIGIN|DESTINATION*] -> (airport_destination:Airport)
+WHERE REDUCE(partialResult = 0, flight IN [flight IN NODES(path) WHERE 'Flight' IN LABELS(flight)] | partialResult + [(flight:Flight) <- [:ASSIGN] - (ticket:Ticket) | ticket.price][0]) < 3000
+RETURN airport_destination
+
+Zadanie 7
+MATCH p = (airport_origin:Airport { name:"LAX" }) <- [:ORIGIN] - (:Flight) - [:ORIGIN|DESTINATION*] -> (airport_destination:Airport {name: "DAY"})
+WITH p, REDUCE(partialResult = 0, flight IN [flight IN NODES(p) WHERE 'Flight' IN LABELS(flight)] | partialResult + [(flight:Flight) <- [:ASSIGN] - (ticket:Ticket) | ticket.price][0]) as ticket_price
+RETURN p, ticket_price
+ORDER BY ticket_price
+
+Zadanie 8
+MATCH p = (airport_origin:Airport { name:"LAX" }) <- [:ORIGIN] - (:Flight) - [:ORIGIN|DESTINATION*] -> (airport_destination:Airport {name: "DAY"})
+WITH p, REDUCE(partialResult = 0, flight IN [flight IN NODES(p) WHERE 'Flight' IN LABELS(flight)] | partialResult + [(flight:Flight) <- [:ASSIGN] - (ticket:Ticket) | ticket.price][0]) as ticket_price
+RETURN p, ticket_price
+ORDER BY ticket_price LIMIT 1
+
+Zadanie 10
+MATCH p = (airport_1:Airport) <- [:ORIGIN] - (:Flight) - [:DESTINATION] -> (airport_2:Airport) <- [:ORIGIN] - (:Flight) - [:DESTINATION] -> (airport_3:Airport)
+WHERE not(airport_1 = airport_2) AND not(airport_1 = airport_3) AND not(airport_2 = airport_3)
+WITH p, REDUCE(partialResult = 0, flight IN [flight IN NODES(p) WHERE 'Flight' IN LABELS(flight)] |
+  partialResult + [(flight:Flight) <- [:ASSIGN] - (ticket:Ticket {class: 'economy'}) | ticket.price][0]
+) as ticket_price
+RETURN p, ticket_price
+ORDER BY ticket_price asc LIMIT 1
+
+
+
+
+
+
+
+
+
+
+
+
+

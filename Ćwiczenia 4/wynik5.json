@@ -1,0 +1,202 @@
+﻿[
+  {
+    "airport.name": "SAT",
+    "flights_number": 1
+  },
+  {
+    "airport.name": "FLL",
+    "flights_number": 1
+  },
+  {
+    "airport.name": "KOA",
+    "flights_number": 1
+  },
+  {
+    "airport.name": "SMF",
+    "flights_number": 1
+  },
+  {
+    "airport.name": "RIC",
+    "flights_number": 1
+  },
+  {
+    "airport.name": "IND",
+    "flights_number": 1
+  },
+  {
+    "airport.name": "MCI",
+    "flights_number": 1
+  },
+  {
+    "airport.name": "MSN",
+    "flights_number": 1
+  },
+  {
+    "airport.name": "BIL",
+    "flights_number": 1
+  },
+  {
+    "airport.name": "ROC",
+    "flights_number": 1
+  },
+  {
+    "airport.name": "CLT",
+    "flights_number": 1
+  },
+  {
+    "airport.name": "DCA",
+    "flights_number": 1
+  },
+  {
+    "airport.name": "PBI",
+    "flights_number": 1
+  },
+  {
+    "airport.name": "MIA",
+    "flights_number": 1
+  },
+  {
+    "airport.name": "MOB",
+    "flights_number": 1
+  },
+  {
+    "airport.name": "SNA",
+    "flights_number": 2
+  },
+  {
+    "airport.name": "LAS",
+    "flights_number": 2
+  },
+  {
+    "airport.name": "ATL",
+    "flights_number": 2
+  },
+  {
+    "airport.name": "CMH",
+    "flights_number": 2
+  },
+  {
+    "airport.name": "SJC",
+    "flights_number": 2
+  },
+  {
+    "airport.name": "LGA",
+    "flights_number": 2
+  },
+  {
+    "airport.name": "TUS",
+    "flights_number": 2
+  },
+  {
+    "airport.name": "PHX",
+    "flights_number": 3
+  },
+  {
+    "airport.name": "SEA",
+    "flights_number": 3
+  },
+  {
+    "airport.name": "SBN",
+    "flights_number": 3
+  },
+  {
+    "airport.name": "BOS",
+    "flights_number": 4
+  },
+  {
+    "airport.name": "DFW",
+    "flights_number": 4
+  },
+  {
+    "airport.name": "SAN",
+    "flights_number": 4
+  },
+  {
+    "airport.name": "BHM",
+    "flights_number": 4
+  },
+  {
+    "airport.name": "CVG",
+    "flights_number": 4
+  },
+  {
+    "airport.name": "ABQ",
+    "flights_number": 4
+  },
+  {
+    "airport.name": "FAT",
+    "flights_number": 4
+  },
+  {
+    "airport.name": "DLH",
+    "flights_number": 4
+  },
+  {
+    "airport.name": "MCO",
+    "flights_number": 4
+  },
+  {
+    "airport.name": "PDX",
+    "flights_number": 4
+  },
+  {
+    "airport.name": "SLC",
+    "flights_number": 5
+  },
+  {
+    "airport.name": "HNL",
+    "flights_number": 5
+  },
+  {
+    "airport.name": "FSD",
+    "flights_number": 5
+  },
+  {
+    "airport.name": "EWR",
+    "flights_number": 7
+  },
+  {
+    "airport.name": "MOT",
+    "flights_number": 8
+  },
+  {
+    "airport.name": "MSP",
+    "flights_number": 9
+  },
+  {
+    "airport.name": "IAD",
+    "flights_number": 12
+  },
+  {
+    "airport.name": "BNA",
+    "flights_number": 12
+  },
+  {
+    "airport.name": "AZO",
+    "flights_number": 13
+  },
+  {
+    "airport.name": "SFO",
+    "flights_number": 14
+  },
+  {
+    "airport.name": "DEN",
+    "flights_number": 18
+  },
+  {
+    "airport.name": "LAX",
+    "flights_number": 22
+  },
+  {
+    "airport.name": "IAH",
+    "flights_number": 23
+  },
+  {
+    "airport.name": "DTW",
+    "flights_number": 25
+  },
+  {
+    "airport.name": "ORD",
+    "flights_number": 48
+  }
+]

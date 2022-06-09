@@ -1,0 +1,1514 @@
+﻿[
+  {
+    "[segment IN relationships(path) | segment.name + \" - \" + type(segment)]": [
+      "Darjeeling-Tumbling - road",
+      "Tumbling-Gairibus - twowheeler",
+      "Gairibus-BhikeBhanja - twowheeler",
+      "BhikeBhanja-Sandakphu - trek"
+    ],
+    "distance": 32
+  },
+  {
+    "[segment IN relationships(path) | segment.name + \" - \" + type(segment)]": [
+      "Darjeeling-Tumbling - road",
+      "Tumbling-Gairibus - twowheeler",
+      "Gairibus-BhikeBhanja - road",
+      "BhikeBhanja-Sandakphu - trek"
+    ],
+    "distance": 32
+  },
+  {
+    "[segment IN relationships(path) | segment.name + \" - \" + type(segment)]": [
+      "Darjeeling-Tumbling - road",
+      "Tumbling-Gairibus - twowheeler",
+      "Gairibus-BhikeBhanja - trek",
+      "BhikeBhanja-Sandakphu - trek"
+    ],
+    "distance": 32
+  },
+  {
+    "[segment IN relationships(path) | segment.name + \" - \" + type(segment)]": [
+      "Darjeeling-Tumbling - road",
+      "Tumbling-Gairibus - road",
+      "Gairibus-BhikeBhanja - twowheeler",
+      "BhikeBhanja-Sandakphu - trek"
+    ],
+    "distance": 32
+  },
+  {
+    "[segment IN relationships(path) | segment.name + \" - \" + type(segment)]": [
+      "Darjeeling-Tumbling - road",
+      "Tumbling-Gairibus - road",
+      "Gairibus-BhikeBhanja - road",
+      "BhikeBhanja-Sandakphu - trek"
+    ],
+    "distance": 32
+  },
+  {
+    "[segment IN relationships(path) | segment.name + \" - \" + type(segment)]": [
+      "Darjeeling-Tumbling - road",
+      "Tumbling-Gairibus - road",
+      "Gairibus-BhikeBhanja - trek",
+      "BhikeBhanja-Sandakphu - trek"
+    ],
+    "distance": 32
+  },
+  {
+    "[segment IN relationships(path) | segment.name + \" - \" + type(segment)]": [
+      "Darjeeling-Tumbling - road",
+      "Tumbling-Gairibus - trek",
+      "Gairibus-BhikeBhanja - twowheeler",
+      "BhikeBhanja-Sandakphu - trek"
+    ],
+    "distance": 32
+  },
+  {
+    "[segment IN relationships(path) | segment.name + \" - \" + type(segment)]": [
+      "Darjeeling-Tumbling - road",
+      "Tumbling-Gairibus - trek",
+      "Gairibus-BhikeBhanja - road",
+      "BhikeBhanja-Sandakphu - trek"
+    ],
+    "distance": 32
+  },
+  {
+    "[segment IN relationships(path) | segment.name + \" - \" + type(segment)]": [
+      "Darjeeling-Tumbling - road",
+      "Tumbling-Gairibus - trek",
+      "Gairibus-BhikeBhanja - trek",
+      "BhikeBhanja-Sandakphu - trek"
+    ],
+    "distance": 32
+  },
+  {
+    "[segment IN relationships(path) | segment.name + \" - \" + type(segment)]": [
+      "Darjeeling-Tumbling - trek",
+      "Tumbling-Gairibus - twowheeler",
+      "Gairibus-BhikeBhanja - twowheeler",
+      "BhikeBhanja-Sandakphu - trek"
+    ],
+    "distance": 32
+  },
+  {
+    "[segment IN relationships(path) | segment.name + \" - \" + type(segment)]": [
+      "Darjeeling-Tumbling - trek",
+      "Tumbling-Gairibus - twowheeler",
+      "Gairibus-BhikeBhanja - road",
+      "BhikeBhanja-Sandakphu - trek"
+    ],
+    "distance": 32
+  },
+  {
+    "[segment IN relationships(path) | segment.name + \" - \" + type(segment)]": [
+      "Darjeeling-Tumbling - trek",
+      "Tumbling-Gairibus - twowheeler",
+      "Gairibus-BhikeBhanja - trek",
+      "BhikeBhanja-Sandakphu - trek"
+    ],
+    "distance": 32
+  },
+  {
+    "[segment IN relationships(path) | segment.name + \" - \" + type(segment)]": [
+      "Darjeeling-Tumbling - trek",
+      "Tumbling-Gairibus - road",
+      "Gairibus-BhikeBhanja - twowheeler",
+      "BhikeBhanja-Sandakphu - trek"
+    ],
+    "distance": 32
+  },
+  {
+    "[segment IN relationships(path) | segment.name + \" - \" + type(segment)]": [
+      "Darjeeling-Tumbling - trek",
+      "Tumbling-Gairibus - road",
+      "Gairibus-BhikeBhanja - road",
+      "BhikeBhanja-Sandakphu - trek"
+    ],
+    "distance": 32
+  },
+  {
+    "[segment IN relationships(path) | segment.name + \" - \" + type(segment)]": [
+      "Darjeeling-Tumbling - trek",
+      "Tumbling-Gairibus - road",
+      "Gairibus-BhikeBhanja - trek",
+      "BhikeBhanja-Sandakphu - trek"
+    ],
+    "distance": 32
+  },
+  {
+    "[segment IN relationships(path) | segment.name + \" - \" + type(segment)]": [
+      "Darjeeling-Tumbling - trek",
+      "Tumbling-Gairibus - trek",
+      "Gairibus-BhikeBhanja - twowheeler",
+      "BhikeBhanja-Sandakphu - trek"
+    ],
+    "distance": 32
+  },
+  {
+    "[segment IN relationships(path) | segment.name + \" - \" + type(segment)]": [
+      "Darjeeling-Tumbling - trek",
+      "Tumbling-Gairibus - trek",
+      "Gairibus-BhikeBhanja - road",
+      "BhikeBhanja-Sandakphu - trek"
+    ],
+    "distance": 32
+  },
+  {
+    "[segment IN relationships(path) | segment.name + \" - \" + type(segment)]": [
+      "Darjeeling-Tumbling - trek",
+      "Tumbling-Gairibus - trek",
+      "Gairibus-BhikeBhanja - trek",
+      "BhikeBhanja-Sandakphu - trek"
+    ],
+    "distance": 32
+  },
+  {
+    "[segment IN relationships(path) | segment.name + \" - \" + type(segment)]": [
+      "Darjeeling-Rimbik - trek",
+      "Rimbik-Sirikhola - twowheeler",
+      "Sirikhola-Gurdum - twowheeler",
+      "Gurdum-Sandakphu - twowheeler"
+    ],
+    "distance": 37
+  },
+  {
+    "[segment IN relationships(path) | segment.name + \" - \" + type(segment)]": [
+      "Darjeeling-Rimbik - trek",
+      "Rimbik-Sirikhola - twowheeler",
+      "Sirikhola-Gurdum - twowheeler",
+      "Gurdum-Sandakphu - trek"
+    ],
+    "distance": 37
+  },
+  {
+    "[segment IN relationships(path) | segment.name + \" - \" + type(segment)]": [
+      "Darjeeling-Rimbik - trek",
+      "Rimbik-Sirikhola - twowheeler",
+      "Sirikhola-Gurdum - trek",
+      "Gurdum-Sandakphu - twowheeler"
+    ],
+    "distance": 37
+  },
+  {
+    "[segment IN relationships(path) | segment.name + \" - \" + type(segment)]": [
+      "Darjeeling-Rimbik - trek",
+      "Rimbik-Sirikhola - twowheeler",
+      "Sirikhola-Gurdum - trek",
+      "Gurdum-Sandakphu - trek"
+    ],
+    "distance": 37
+  },
+  {
+    "[segment IN relationships(path) | segment.name + \" - \" + type(segment)]": [
+      "Darjeeling-Rimbik - trek",
+      "Rimbik-Sirikhola - trek",
+      "Sirikhola-Gurdum - twowheeler",
+      "Gurdum-Sandakphu - twowheeler"
+    ],
+    "distance": 37
+  },
+  {
+    "[segment IN relationships(path) | segment.name + \" - \" + type(segment)]": [
+      "Darjeeling-Rimbik - trek",
+      "Rimbik-Sirikhola - trek",
+      "Sirikhola-Gurdum - twowheeler",
+      "Gurdum-Sandakphu - trek"
+    ],
+    "distance": 37
+  },
+  {
+    "[segment IN relationships(path) | segment.name + \" - \" + type(segment)]": [
+      "Darjeeling-Rimbik - trek",
+      "Rimbik-Sirikhola - trek",
+      "Sirikhola-Gurdum - trek",
+      "Gurdum-Sandakphu - twowheeler"
+    ],
+    "distance": 37
+  },
+  {
+    "[segment IN relationships(path) | segment.name + \" - \" + type(segment)]": [
+      "Darjeeling-Rimbik - trek",
+      "Rimbik-Sirikhola - trek",
+      "Sirikhola-Gurdum - trek",
+      "Gurdum-Sandakphu - trek"
+    ],
+    "distance": 37
+  },
+  {
+    "[segment IN relationships(path) | segment.name + \" - \" + type(segment)]": [
+      "Darjeeling-Rimbik - trek",
+      "Rimbik-BhikeBhanja - trek",
+      "BhikeBhanja-Sandakphu - trek"
+    ],
+    "distance": 37
+  },
+  {
+    "[segment IN relationships(path) | segment.name + \" - \" + type(segment)]": [
+      "Darjeeling-Rimbik - road",
+      "Rimbik-Sirikhola - twowheeler",
+      "Sirikhola-Gurdum - twowheeler",
+      "Gurdum-Sandakphu - twowheeler"
+    ],
+    "distance": 37
+  },
+  {
+    "[segment IN relationships(path) | segment.name + \" - \" + type(segment)]": [
+      "Darjeeling-Rimbik - road",
+      "Rimbik-Sirikhola - twowheeler",
+      "Sirikhola-Gurdum - twowheeler",
+      "Gurdum-Sandakphu - trek"
+    ],
+    "distance": 37
+  },
+  {
+    "[segment IN relationships(path) | segment.name + \" - \" + type(segment)]": [
+      "Darjeeling-Rimbik - road",
+      "Rimbik-Sirikhola - twowheeler",
+      "Sirikhola-Gurdum - trek",
+      "Gurdum-Sandakphu - twowheeler"
+    ],
+    "distance": 37
+  },
+  {
+    "[segment IN relationships(path) | segment.name + \" - \" + type(segment)]": [
+      "Darjeeling-Rimbik - road",
+      "Rimbik-Sirikhola - twowheeler",
+      "Sirikhola-Gurdum - trek",
+      "Gurdum-Sandakphu - trek"
+    ],
+    "distance": 37
+  },
+  {
+    "[segment IN relationships(path) | segment.name + \" - \" + type(segment)]": [
+      "Darjeeling-Rimbik - road",
+      "Rimbik-Sirikhola - trek",
+      "Sirikhola-Gurdum - twowheeler",
+      "Gurdum-Sandakphu - twowheeler"
+    ],
+    "distance": 37
+  },
+  {
+    "[segment IN relationships(path) | segment.name + \" - \" + type(segment)]": [
+      "Darjeeling-Rimbik - road",
+      "Rimbik-Sirikhola - trek",
+      "Sirikhola-Gurdum - twowheeler",
+      "Gurdum-Sandakphu - trek"
+    ],
+    "distance": 37
+  },
+  {
+    "[segment IN relationships(path) | segment.name + \" - \" + type(segment)]": [
+      "Darjeeling-Rimbik - road",
+      "Rimbik-Sirikhola - trek",
+      "Sirikhola-Gurdum - trek",
+      "Gurdum-Sandakphu - twowheeler"
+    ],
+    "distance": 37
+  },
+  {
+    "[segment IN relationships(path) | segment.name + \" - \" + type(segment)]": [
+      "Darjeeling-Rimbik - road",
+      "Rimbik-Sirikhola - trek",
+      "Sirikhola-Gurdum - trek",
+      "Gurdum-Sandakphu - trek"
+    ],
+    "distance": 37
+  },
+  {
+    "[segment IN relationships(path) | segment.name + \" - \" + type(segment)]": [
+      "Darjeeling-Rimbik - road",
+      "Rimbik-BhikeBhanja - trek",
+      "BhikeBhanja-Sandakphu - trek"
+    ],
+    "distance": 37
+  },
+  {
+    "[segment IN relationships(path) | segment.name + \" - \" + type(segment)]": [
+      "Darjeeling-Rimbik - PublicTransport",
+      "Rimbik-Sirikhola - twowheeler",
+      "Sirikhola-Gurdum - twowheeler",
+      "Gurdum-Sandakphu - twowheeler"
+    ],
+    "distance": 37
+  },
+  {
+    "[segment IN relationships(path) | segment.name + \" - \" + type(segment)]": [
+      "Darjeeling-Rimbik - PublicTransport",
+      "Rimbik-Sirikhola - twowheeler",
+      "Sirikhola-Gurdum - twowheeler",
+      "Gurdum-Sandakphu - trek"
+    ],
+    "distance": 37
+  },
+  {
+    "[segment IN relationships(path) | segment.name + \" - \" + type(segment)]": [
+      "Darjeeling-Rimbik - PublicTransport",
+      "Rimbik-Sirikhola - twowheeler",
+      "Sirikhola-Gurdum - trek",
+      "Gurdum-Sandakphu - twowheeler"
+    ],
+    "distance": 37
+  },
+  {
+    "[segment IN relationships(path) | segment.name + \" - \" + type(segment)]": [
+      "Darjeeling-Rimbik - PublicTransport",
+      "Rimbik-Sirikhola - twowheeler",
+      "Sirikhola-Gurdum - trek",
+      "Gurdum-Sandakphu - trek"
+    ],
+    "distance": 37
+  },
+  {
+    "[segment IN relationships(path) | segment.name + \" - \" + type(segment)]": [
+      "Darjeeling-Rimbik - PublicTransport",
+      "Rimbik-Sirikhola - trek",
+      "Sirikhola-Gurdum - twowheeler",
+      "Gurdum-Sandakphu - twowheeler"
+    ],
+    "distance": 37
+  },
+  {
+    "[segment IN relationships(path) | segment.name + \" - \" + type(segment)]": [
+      "Darjeeling-Rimbik - PublicTransport",
+      "Rimbik-Sirikhola - trek",
+      "Sirikhola-Gurdum - twowheeler",
+      "Gurdum-Sandakphu - trek"
+    ],
+    "distance": 37
+  },
+  {
+    "[segment IN relationships(path) | segment.name + \" - \" + type(segment)]": [
+      "Darjeeling-Rimbik - PublicTransport",
+      "Rimbik-Sirikhola - trek",
+      "Sirikhola-Gurdum - trek",
+      "Gurdum-Sandakphu - twowheeler"
+    ],
+    "distance": 37
+  },
+  {
+    "[segment IN relationships(path) | segment.name + \" - \" + type(segment)]": [
+      "Darjeeling-Rimbik - PublicTransport",
+      "Rimbik-Sirikhola - trek",
+      "Sirikhola-Gurdum - trek",
+      "Gurdum-Sandakphu - trek"
+    ],
+    "distance": 37
+  },
+  {
+    "[segment IN relationships(path) | segment.name + \" - \" + type(segment)]": [
+      "Darjeeling-Rimbik - PublicTransport",
+      "Rimbik-BhikeBhanja - trek",
+      "BhikeBhanja-Sandakphu - trek"
+    ],
+    "distance": 37
+  },
+  {
+    "[segment IN relationships(path) | segment.name + \" - \" + type(segment)]": [
+      "Darjeeling-Rimbik - trek",
+      "Rimbik-Tumbling - trek",
+      "Tumbling-Gairibus - twowheeler",
+      "Gairibus-BhikeBhanja - twowheeler",
+      "BhikeBhanja-Sandakphu - trek"
+    ],
+    "distance": 44
+  },
+  {
+    "[segment IN relationships(path) | segment.name + \" - \" + type(segment)]": [
+      "Darjeeling-Rimbik - trek",
+      "Rimbik-Tumbling - trek",
+      "Tumbling-Gairibus - twowheeler",
+      "Gairibus-BhikeBhanja - road",
+      "BhikeBhanja-Sandakphu - trek"
+    ],
+    "distance": 44
+  },
+  {
+    "[segment IN relationships(path) | segment.name + \" - \" + type(segment)]": [
+      "Darjeeling-Rimbik - trek",
+      "Rimbik-Tumbling - trek",
+      "Tumbling-Gairibus - twowheeler",
+      "Gairibus-BhikeBhanja - trek",
+      "BhikeBhanja-Sandakphu - trek"
+    ],
+    "distance": 44
+  },
+  {
+    "[segment IN relationships(path) | segment.name + \" - \" + type(segment)]": [
+      "Darjeeling-Rimbik - trek",
+      "Rimbik-Tumbling - trek",
+      "Tumbling-Gairibus - road",
+      "Gairibus-BhikeBhanja - twowheeler",
+      "BhikeBhanja-Sandakphu - trek"
+    ],
+    "distance": 44
+  },
+  {
+    "[segment IN relationships(path) | segment.name + \" - \" + type(segment)]": [
+      "Darjeeling-Rimbik - trek",
+      "Rimbik-Tumbling - trek",
+      "Tumbling-Gairibus - road",
+      "Gairibus-BhikeBhanja - road",
+      "BhikeBhanja-Sandakphu - trek"
+    ],
+    "distance": 44
+  },
+  {
+    "[segment IN relationships(path) | segment.name + \" - \" + type(segment)]": [
+      "Darjeeling-Rimbik - trek",
+      "Rimbik-Tumbling - trek",
+      "Tumbling-Gairibus - road",
+      "Gairibus-BhikeBhanja - trek",
+      "BhikeBhanja-Sandakphu - trek"
+    ],
+    "distance": 44
+  },
+  {
+    "[segment IN relationships(path) | segment.name + \" - \" + type(segment)]": [
+      "Darjeeling-Rimbik - trek",
+      "Rimbik-Tumbling - trek",
+      "Tumbling-Gairibus - trek",
+      "Gairibus-BhikeBhanja - twowheeler",
+      "BhikeBhanja-Sandakphu - trek"
+    ],
+    "distance": 44
+  },
+  {
+    "[segment IN relationships(path) | segment.name + \" - \" + type(segment)]": [
+      "Darjeeling-Rimbik - trek",
+      "Rimbik-Tumbling - trek",
+      "Tumbling-Gairibus - trek",
+      "Gairibus-BhikeBhanja - road",
+      "BhikeBhanja-Sandakphu - trek"
+    ],
+    "distance": 44
+  },
+  {
+    "[segment IN relationships(path) | segment.name + \" - \" + type(segment)]": [
+      "Darjeeling-Rimbik - trek",
+      "Rimbik-Tumbling - trek",
+      "Tumbling-Gairibus - trek",
+      "Gairibus-BhikeBhanja - trek",
+      "BhikeBhanja-Sandakphu - trek"
+    ],
+    "distance": 44
+  },
+  {
+    "[segment IN relationships(path) | segment.name + \" - \" + type(segment)]": [
+      "Darjeeling-Rimbik - road",
+      "Rimbik-Tumbling - trek",
+      "Tumbling-Gairibus - twowheeler",
+      "Gairibus-BhikeBhanja - twowheeler",
+      "BhikeBhanja-Sandakphu - trek"
+    ],
+    "distance": 44
+  },
+  {
+    "[segment IN relationships(path) | segment.name + \" - \" + type(segment)]": [
+      "Darjeeling-Rimbik - road",
+      "Rimbik-Tumbling - trek",
+      "Tumbling-Gairibus - twowheeler",
+      "Gairibus-BhikeBhanja - road",
+      "BhikeBhanja-Sandakphu - trek"
+    ],
+    "distance": 44
+  },
+  {
+    "[segment IN relationships(path) | segment.name + \" - \" + type(segment)]": [
+      "Darjeeling-Rimbik - road",
+      "Rimbik-Tumbling - trek",
+      "Tumbling-Gairibus - twowheeler",
+      "Gairibus-BhikeBhanja - trek",
+      "BhikeBhanja-Sandakphu - trek"
+    ],
+    "distance": 44
+  },
+  {
+    "[segment IN relationships(path) | segment.name + \" - \" + type(segment)]": [
+      "Darjeeling-Rimbik - road",
+      "Rimbik-Tumbling - trek",
+      "Tumbling-Gairibus - road",
+      "Gairibus-BhikeBhanja - twowheeler",
+      "BhikeBhanja-Sandakphu - trek"
+    ],
+    "distance": 44
+  },
+  {
+    "[segment IN relationships(path) | segment.name + \" - \" + type(segment)]": [
+      "Darjeeling-Rimbik - road",
+      "Rimbik-Tumbling - trek",
+      "Tumbling-Gairibus - road",
+      "Gairibus-BhikeBhanja - road",
+      "BhikeBhanja-Sandakphu - trek"
+    ],
+    "distance": 44
+  },
+  {
+    "[segment IN relationships(path) | segment.name + \" - \" + type(segment)]": [
+      "Darjeeling-Rimbik - road",
+      "Rimbik-Tumbling - trek",
+      "Tumbling-Gairibus - road",
+      "Gairibus-BhikeBhanja - trek",
+      "BhikeBhanja-Sandakphu - trek"
+    ],
+    "distance": 44
+  },
+  {
+    "[segment IN relationships(path) | segment.name + \" - \" + type(segment)]": [
+      "Darjeeling-Rimbik - road",
+      "Rimbik-Tumbling - trek",
+      "Tumbling-Gairibus - trek",
+      "Gairibus-BhikeBhanja - twowheeler",
+      "BhikeBhanja-Sandakphu - trek"
+    ],
+    "distance": 44
+  },
+  {
+    "[segment IN relationships(path) | segment.name + \" - \" + type(segment)]": [
+      "Darjeeling-Rimbik - road",
+      "Rimbik-Tumbling - trek",
+      "Tumbling-Gairibus - trek",
+      "Gairibus-BhikeBhanja - road",
+      "BhikeBhanja-Sandakphu - trek"
+    ],
+    "distance": 44
+  },
+  {
+    "[segment IN relationships(path) | segment.name + \" - \" + type(segment)]": [
+      "Darjeeling-Rimbik - road",
+      "Rimbik-Tumbling - trek",
+      "Tumbling-Gairibus - trek",
+      "Gairibus-BhikeBhanja - trek",
+      "BhikeBhanja-Sandakphu - trek"
+    ],
+    "distance": 44
+  },
+  {
+    "[segment IN relationships(path) | segment.name + \" - \" + type(segment)]": [
+      "Darjeeling-Rimbik - PublicTransport",
+      "Rimbik-Tumbling - trek",
+      "Tumbling-Gairibus - twowheeler",
+      "Gairibus-BhikeBhanja - twowheeler",
+      "BhikeBhanja-Sandakphu - trek"
+    ],
+    "distance": 44
+  },
+  {
+    "[segment IN relationships(path) | segment.name + \" - \" + type(segment)]": [
+      "Darjeeling-Rimbik - PublicTransport",
+      "Rimbik-Tumbling - trek",
+      "Tumbling-Gairibus - twowheeler",
+      "Gairibus-BhikeBhanja - road",
+      "BhikeBhanja-Sandakphu - trek"
+    ],
+    "distance": 44
+  },
+  {
+    "[segment IN relationships(path) | segment.name + \" - \" + type(segment)]": [
+      "Darjeeling-Rimbik - PublicTransport",
+      "Rimbik-Tumbling - trek",
+      "Tumbling-Gairibus - twowheeler",
+      "Gairibus-BhikeBhanja - trek",
+      "BhikeBhanja-Sandakphu - trek"
+    ],
+    "distance": 44
+  },
+  {
+    "[segment IN relationships(path) | segment.name + \" - \" + type(segment)]": [
+      "Darjeeling-Rimbik - PublicTransport",
+      "Rimbik-Tumbling - trek",
+      "Tumbling-Gairibus - road",
+      "Gairibus-BhikeBhanja - twowheeler",
+      "BhikeBhanja-Sandakphu - trek"
+    ],
+    "distance": 44
+  },
+  {
+    "[segment IN relationships(path) | segment.name + \" - \" + type(segment)]": [
+      "Darjeeling-Rimbik - PublicTransport",
+      "Rimbik-Tumbling - trek",
+      "Tumbling-Gairibus - road",
+      "Gairibus-BhikeBhanja - road",
+      "BhikeBhanja-Sandakphu - trek"
+    ],
+    "distance": 44
+  },
+  {
+    "[segment IN relationships(path) | segment.name + \" - \" + type(segment)]": [
+      "Darjeeling-Rimbik - PublicTransport",
+      "Rimbik-Tumbling - trek",
+      "Tumbling-Gairibus - road",
+      "Gairibus-BhikeBhanja - trek",
+      "BhikeBhanja-Sandakphu - trek"
+    ],
+    "distance": 44
+  },
+  {
+    "[segment IN relationships(path) | segment.name + \" - \" + type(segment)]": [
+      "Darjeeling-Rimbik - PublicTransport",
+      "Rimbik-Tumbling - trek",
+      "Tumbling-Gairibus - trek",
+      "Gairibus-BhikeBhanja - twowheeler",
+      "BhikeBhanja-Sandakphu - trek"
+    ],
+    "distance": 44
+  },
+  {
+    "[segment IN relationships(path) | segment.name + \" - \" + type(segment)]": [
+      "Darjeeling-Rimbik - PublicTransport",
+      "Rimbik-Tumbling - trek",
+      "Tumbling-Gairibus - trek",
+      "Gairibus-BhikeBhanja - road",
+      "BhikeBhanja-Sandakphu - trek"
+    ],
+    "distance": 44
+  },
+  {
+    "[segment IN relationships(path) | segment.name + \" - \" + type(segment)]": [
+      "Darjeeling-Rimbik - PublicTransport",
+      "Rimbik-Tumbling - trek",
+      "Tumbling-Gairibus - trek",
+      "Gairibus-BhikeBhanja - trek",
+      "BhikeBhanja-Sandakphu - trek"
+    ],
+    "distance": 44
+  },
+  {
+    "[segment IN relationships(path) | segment.name + \" - \" + type(segment)]": [
+      "Darjeeling-Rimbik - trek",
+      "Rimbik-Sirikhola - twowheeler",
+      "Sirikhola-Rammam - twowheeler",
+      "Rammam-Gurdum - twowheeler",
+      "Gurdum-Sandakphu - twowheeler"
+    ],
+    "distance": 48
+  },
+  {
+    "[segment IN relationships(path) | segment.name + \" - \" + type(segment)]": [
+      "Darjeeling-Rimbik - trek",
+      "Rimbik-Sirikhola - twowheeler",
+      "Sirikhola-Rammam - twowheeler",
+      "Rammam-Gurdum - twowheeler",
+      "Gurdum-Sandakphu - trek"
+    ],
+    "distance": 48
+  },
+  {
+    "[segment IN relationships(path) | segment.name + \" - \" + type(segment)]": [
+      "Darjeeling-Rimbik - trek",
+      "Rimbik-Sirikhola - twowheeler",
+      "Sirikhola-Rammam - twowheeler",
+      "Rammam-Gurdum - road",
+      "Gurdum-Sandakphu - twowheeler"
+    ],
+    "distance": 48
+  },
+  {
+    "[segment IN relationships(path) | segment.name + \" - \" + type(segment)]": [
+      "Darjeeling-Rimbik - trek",
+      "Rimbik-Sirikhola - twowheeler",
+      "Sirikhola-Rammam - twowheeler",
+      "Rammam-Gurdum - road",
+      "Gurdum-Sandakphu - trek"
+    ],
+    "distance": 48
+  },
+  {
+    "[segment IN relationships(path) | segment.name + \" - \" + type(segment)]": [
+      "Darjeeling-Rimbik - trek",
+      "Rimbik-Sirikhola - twowheeler",
+      "Sirikhola-Rammam - twowheeler",
+      "Rammam-Gurdum - trek",
+      "Gurdum-Sandakphu - twowheeler"
+    ],
+    "distance": 48
+  },
+  {
+    "[segment IN relationships(path) | segment.name + \" - \" + type(segment)]": [
+      "Darjeeling-Rimbik - trek",
+      "Rimbik-Sirikhola - twowheeler",
+      "Sirikhola-Rammam - twowheeler",
+      "Rammam-Gurdum - trek",
+      "Gurdum-Sandakphu - trek"
+    ],
+    "distance": 48
+  },
+  {
+    "[segment IN relationships(path) | segment.name + \" - \" + type(segment)]": [
+      "Darjeeling-Rimbik - trek",
+      "Rimbik-Sirikhola - twowheeler",
+      "Sirikhola-Rammam - trek",
+      "Rammam-Gurdum - twowheeler",
+      "Gurdum-Sandakphu - twowheeler"
+    ],
+    "distance": 48
+  },
+  {
+    "[segment IN relationships(path) | segment.name + \" - \" + type(segment)]": [
+      "Darjeeling-Rimbik - trek",
+      "Rimbik-Sirikhola - twowheeler",
+      "Sirikhola-Rammam - trek",
+      "Rammam-Gurdum - twowheeler",
+      "Gurdum-Sandakphu - trek"
+    ],
+    "distance": 48
+  },
+  {
+    "[segment IN relationships(path) | segment.name + \" - \" + type(segment)]": [
+      "Darjeeling-Rimbik - trek",
+      "Rimbik-Sirikhola - twowheeler",
+      "Sirikhola-Rammam - trek",
+      "Rammam-Gurdum - road",
+      "Gurdum-Sandakphu - twowheeler"
+    ],
+    "distance": 48
+  },
+  {
+    "[segment IN relationships(path) | segment.name + \" - \" + type(segment)]": [
+      "Darjeeling-Rimbik - trek",
+      "Rimbik-Sirikhola - twowheeler",
+      "Sirikhola-Rammam - trek",
+      "Rammam-Gurdum - road",
+      "Gurdum-Sandakphu - trek"
+    ],
+    "distance": 48
+  },
+  {
+    "[segment IN relationships(path) | segment.name + \" - \" + type(segment)]": [
+      "Darjeeling-Rimbik - trek",
+      "Rimbik-Sirikhola - twowheeler",
+      "Sirikhola-Rammam - trek",
+      "Rammam-Gurdum - trek",
+      "Gurdum-Sandakphu - twowheeler"
+    ],
+    "distance": 48
+  },
+  {
+    "[segment IN relationships(path) | segment.name + \" - \" + type(segment)]": [
+      "Darjeeling-Rimbik - trek",
+      "Rimbik-Sirikhola - twowheeler",
+      "Sirikhola-Rammam - trek",
+      "Rammam-Gurdum - trek",
+      "Gurdum-Sandakphu - trek"
+    ],
+    "distance": 48
+  },
+  {
+    "[segment IN relationships(path) | segment.name + \" - \" + type(segment)]": [
+      "Darjeeling-Rimbik - trek",
+      "Rimbik-Sirikhola - trek",
+      "Sirikhola-Rammam - twowheeler",
+      "Rammam-Gurdum - twowheeler",
+      "Gurdum-Sandakphu - twowheeler"
+    ],
+    "distance": 48
+  },
+  {
+    "[segment IN relationships(path) | segment.name + \" - \" + type(segment)]": [
+      "Darjeeling-Rimbik - trek",
+      "Rimbik-Sirikhola - trek",
+      "Sirikhola-Rammam - twowheeler",
+      "Rammam-Gurdum - twowheeler",
+      "Gurdum-Sandakphu - trek"
+    ],
+    "distance": 48
+  },
+  {
+    "[segment IN relationships(path) | segment.name + \" - \" + type(segment)]": [
+      "Darjeeling-Rimbik - trek",
+      "Rimbik-Sirikhola - trek",
+      "Sirikhola-Rammam - twowheeler",
+      "Rammam-Gurdum - road",
+      "Gurdum-Sandakphu - twowheeler"
+    ],
+    "distance": 48
+  },
+  {
+    "[segment IN relationships(path) | segment.name + \" - \" + type(segment)]": [
+      "Darjeeling-Rimbik - trek",
+      "Rimbik-Sirikhola - trek",
+      "Sirikhola-Rammam - twowheeler",
+      "Rammam-Gurdum - road",
+      "Gurdum-Sandakphu - trek"
+    ],
+    "distance": 48
+  },
+  {
+    "[segment IN relationships(path) | segment.name + \" - \" + type(segment)]": [
+      "Darjeeling-Rimbik - trek",
+      "Rimbik-Sirikhola - trek",
+      "Sirikhola-Rammam - twowheeler",
+      "Rammam-Gurdum - trek",
+      "Gurdum-Sandakphu - twowheeler"
+    ],
+    "distance": 48
+  },
+  {
+    "[segment IN relationships(path) | segment.name + \" - \" + type(segment)]": [
+      "Darjeeling-Rimbik - trek",
+      "Rimbik-Sirikhola - trek",
+      "Sirikhola-Rammam - twowheeler",
+      "Rammam-Gurdum - trek",
+      "Gurdum-Sandakphu - trek"
+    ],
+    "distance": 48
+  },
+  {
+    "[segment IN relationships(path) | segment.name + \" - \" + type(segment)]": [
+      "Darjeeling-Rimbik - trek",
+      "Rimbik-Sirikhola - trek",
+      "Sirikhola-Rammam - trek",
+      "Rammam-Gurdum - twowheeler",
+      "Gurdum-Sandakphu - twowheeler"
+    ],
+    "distance": 48
+  },
+  {
+    "[segment IN relationships(path) | segment.name + \" - \" + type(segment)]": [
+      "Darjeeling-Rimbik - trek",
+      "Rimbik-Sirikhola - trek",
+      "Sirikhola-Rammam - trek",
+      "Rammam-Gurdum - twowheeler",
+      "Gurdum-Sandakphu - trek"
+    ],
+    "distance": 48
+  },
+  {
+    "[segment IN relationships(path) | segment.name + \" - \" + type(segment)]": [
+      "Darjeeling-Rimbik - trek",
+      "Rimbik-Sirikhola - trek",
+      "Sirikhola-Rammam - trek",
+      "Rammam-Gurdum - road",
+      "Gurdum-Sandakphu - twowheeler"
+    ],
+    "distance": 48
+  },
+  {
+    "[segment IN relationships(path) | segment.name + \" - \" + type(segment)]": [
+      "Darjeeling-Rimbik - trek",
+      "Rimbik-Sirikhola - trek",
+      "Sirikhola-Rammam - trek",
+      "Rammam-Gurdum - road",
+      "Gurdum-Sandakphu - trek"
+    ],
+    "distance": 48
+  },
+  {
+    "[segment IN relationships(path) | segment.name + \" - \" + type(segment)]": [
+      "Darjeeling-Rimbik - trek",
+      "Rimbik-Sirikhola - trek",
+      "Sirikhola-Rammam - trek",
+      "Rammam-Gurdum - trek",
+      "Gurdum-Sandakphu - twowheeler"
+    ],
+    "distance": 48
+  },
+  {
+    "[segment IN relationships(path) | segment.name + \" - \" + type(segment)]": [
+      "Darjeeling-Rimbik - trek",
+      "Rimbik-Sirikhola - trek",
+      "Sirikhola-Rammam - trek",
+      "Rammam-Gurdum - trek",
+      "Gurdum-Sandakphu - trek"
+    ],
+    "distance": 48
+  },
+  {
+    "[segment IN relationships(path) | segment.name + \" - \" + type(segment)]": [
+      "Darjeeling-Rimbik - road",
+      "Rimbik-Sirikhola - twowheeler",
+      "Sirikhola-Rammam - twowheeler",
+      "Rammam-Gurdum - twowheeler",
+      "Gurdum-Sandakphu - twowheeler"
+    ],
+    "distance": 48
+  },
+  {
+    "[segment IN relationships(path) | segment.name + \" - \" + type(segment)]": [
+      "Darjeeling-Rimbik - road",
+      "Rimbik-Sirikhola - twowheeler",
+      "Sirikhola-Rammam - twowheeler",
+      "Rammam-Gurdum - twowheeler",
+      "Gurdum-Sandakphu - trek"
+    ],
+    "distance": 48
+  },
+  {
+    "[segment IN relationships(path) | segment.name + \" - \" + type(segment)]": [
+      "Darjeeling-Rimbik - road",
+      "Rimbik-Sirikhola - twowheeler",
+      "Sirikhola-Rammam - twowheeler",
+      "Rammam-Gurdum - road",
+      "Gurdum-Sandakphu - twowheeler"
+    ],
+    "distance": 48
+  },
+  {
+    "[segment IN relationships(path) | segment.name + \" - \" + type(segment)]": [
+      "Darjeeling-Rimbik - road",
+      "Rimbik-Sirikhola - twowheeler",
+      "Sirikhola-Rammam - twowheeler",
+      "Rammam-Gurdum - road",
+      "Gurdum-Sandakphu - trek"
+    ],
+    "distance": 48
+  },
+  {
+    "[segment IN relationships(path) | segment.name + \" - \" + type(segment)]": [
+      "Darjeeling-Rimbik - road",
+      "Rimbik-Sirikhola - twowheeler",
+      "Sirikhola-Rammam - twowheeler",
+      "Rammam-Gurdum - trek",
+      "Gurdum-Sandakphu - twowheeler"
+    ],
+    "distance": 48
+  },
+  {
+    "[segment IN relationships(path) | segment.name + \" - \" + type(segment)]": [
+      "Darjeeling-Rimbik - road",
+      "Rimbik-Sirikhola - twowheeler",
+      "Sirikhola-Rammam - twowheeler",
+      "Rammam-Gurdum - trek",
+      "Gurdum-Sandakphu - trek"
+    ],
+    "distance": 48
+  },
+  {
+    "[segment IN relationships(path) | segment.name + \" - \" + type(segment)]": [
+      "Darjeeling-Rimbik - road",
+      "Rimbik-Sirikhola - twowheeler",
+      "Sirikhola-Rammam - trek",
+      "Rammam-Gurdum - twowheeler",
+      "Gurdum-Sandakphu - twowheeler"
+    ],
+    "distance": 48
+  },
+  {
+    "[segment IN relationships(path) | segment.name + \" - \" + type(segment)]": [
+      "Darjeeling-Rimbik - road",
+      "Rimbik-Sirikhola - twowheeler",
+      "Sirikhola-Rammam - trek",
+      "Rammam-Gurdum - twowheeler",
+      "Gurdum-Sandakphu - trek"
+    ],
+    "distance": 48
+  },
+  {
+    "[segment IN relationships(path) | segment.name + \" - \" + type(segment)]": [
+      "Darjeeling-Rimbik - road",
+      "Rimbik-Sirikhola - twowheeler",
+      "Sirikhola-Rammam - trek",
+      "Rammam-Gurdum - road",
+      "Gurdum-Sandakphu - twowheeler"
+    ],
+    "distance": 48
+  },
+  {
+    "[segment IN relationships(path) | segment.name + \" - \" + type(segment)]": [
+      "Darjeeling-Rimbik - road",
+      "Rimbik-Sirikhola - twowheeler",
+      "Sirikhola-Rammam - trek",
+      "Rammam-Gurdum - road",
+      "Gurdum-Sandakphu - trek"
+    ],
+    "distance": 48
+  },
+  {
+    "[segment IN relationships(path) | segment.name + \" - \" + type(segment)]": [
+      "Darjeeling-Rimbik - road",
+      "Rimbik-Sirikhola - twowheeler",
+      "Sirikhola-Rammam - trek",
+      "Rammam-Gurdum - trek",
+      "Gurdum-Sandakphu - twowheeler"
+    ],
+    "distance": 48
+  },
+  {
+    "[segment IN relationships(path) | segment.name + \" - \" + type(segment)]": [
+      "Darjeeling-Rimbik - road",
+      "Rimbik-Sirikhola - twowheeler",
+      "Sirikhola-Rammam - trek",
+      "Rammam-Gurdum - trek",
+      "Gurdum-Sandakphu - trek"
+    ],
+    "distance": 48
+  },
+  {
+    "[segment IN relationships(path) | segment.name + \" - \" + type(segment)]": [
+      "Darjeeling-Rimbik - road",
+      "Rimbik-Sirikhola - trek",
+      "Sirikhola-Rammam - twowheeler",
+      "Rammam-Gurdum - twowheeler",
+      "Gurdum-Sandakphu - twowheeler"
+    ],
+    "distance": 48
+  },
+  {
+    "[segment IN relationships(path) | segment.name + \" - \" + type(segment)]": [
+      "Darjeeling-Rimbik - road",
+      "Rimbik-Sirikhola - trek",
+      "Sirikhola-Rammam - twowheeler",
+      "Rammam-Gurdum - twowheeler",
+      "Gurdum-Sandakphu - trek"
+    ],
+    "distance": 48
+  },
+  {
+    "[segment IN relationships(path) | segment.name + \" - \" + type(segment)]": [
+      "Darjeeling-Rimbik - road",
+      "Rimbik-Sirikhola - trek",
+      "Sirikhola-Rammam - twowheeler",
+      "Rammam-Gurdum - road",
+      "Gurdum-Sandakphu - twowheeler"
+    ],
+    "distance": 48
+  },
+  {
+    "[segment IN relationships(path) | segment.name + \" - \" + type(segment)]": [
+      "Darjeeling-Rimbik - road",
+      "Rimbik-Sirikhola - trek",
+      "Sirikhola-Rammam - twowheeler",
+      "Rammam-Gurdum - road",
+      "Gurdum-Sandakphu - trek"
+    ],
+    "distance": 48
+  },
+  {
+    "[segment IN relationships(path) | segment.name + \" - \" + type(segment)]": [
+      "Darjeeling-Rimbik - road",
+      "Rimbik-Sirikhola - trek",
+      "Sirikhola-Rammam - twowheeler",
+      "Rammam-Gurdum - trek",
+      "Gurdum-Sandakphu - twowheeler"
+    ],
+    "distance": 48
+  },
+  {
+    "[segment IN relationships(path) | segment.name + \" - \" + type(segment)]": [
+      "Darjeeling-Rimbik - road",
+      "Rimbik-Sirikhola - trek",
+      "Sirikhola-Rammam - twowheeler",
+      "Rammam-Gurdum - trek",
+      "Gurdum-Sandakphu - trek"
+    ],
+    "distance": 48
+  },
+  {
+    "[segment IN relationships(path) | segment.name + \" - \" + type(segment)]": [
+      "Darjeeling-Rimbik - road",
+      "Rimbik-Sirikhola - trek",
+      "Sirikhola-Rammam - trek",
+      "Rammam-Gurdum - twowheeler",
+      "Gurdum-Sandakphu - twowheeler"
+    ],
+    "distance": 48
+  },
+  {
+    "[segment IN relationships(path) | segment.name + \" - \" + type(segment)]": [
+      "Darjeeling-Rimbik - road",
+      "Rimbik-Sirikhola - trek",
+      "Sirikhola-Rammam - trek",
+      "Rammam-Gurdum - twowheeler",
+      "Gurdum-Sandakphu - trek"
+    ],
+    "distance": 48
+  },
+  {
+    "[segment IN relationships(path) | segment.name + \" - \" + type(segment)]": [
+      "Darjeeling-Rimbik - road",
+      "Rimbik-Sirikhola - trek",
+      "Sirikhola-Rammam - trek",
+      "Rammam-Gurdum - road",
+      "Gurdum-Sandakphu - twowheeler"
+    ],
+    "distance": 48
+  },
+  {
+    "[segment IN relationships(path) | segment.name + \" - \" + type(segment)]": [
+      "Darjeeling-Rimbik - road",
+      "Rimbik-Sirikhola - trek",
+      "Sirikhola-Rammam - trek",
+      "Rammam-Gurdum - road",
+      "Gurdum-Sandakphu - trek"
+    ],
+    "distance": 48
+  },
+  {
+    "[segment IN relationships(path) | segment.name + \" - \" + type(segment)]": [
+      "Darjeeling-Rimbik - road",
+      "Rimbik-Sirikhola - trek",
+      "Sirikhola-Rammam - trek",
+      "Rammam-Gurdum - trek",
+      "Gurdum-Sandakphu - twowheeler"
+    ],
+    "distance": 48
+  },
+  {
+    "[segment IN relationships(path) | segment.name + \" - \" + type(segment)]": [
+      "Darjeeling-Rimbik - road",
+      "Rimbik-Sirikhola - trek",
+      "Sirikhola-Rammam - trek",
+      "Rammam-Gurdum - trek",
+      "Gurdum-Sandakphu - trek"
+    ],
+    "distance": 48
+  },
+  {
+    "[segment IN relationships(path) | segment.name + \" - \" + type(segment)]": [
+      "Darjeeling-Rimbik - PublicTransport",
+      "Rimbik-Sirikhola - twowheeler",
+      "Sirikhola-Rammam - twowheeler",
+      "Rammam-Gurdum - twowheeler",
+      "Gurdum-Sandakphu - twowheeler"
+    ],
+    "distance": 48
+  },
+  {
+    "[segment IN relationships(path) | segment.name + \" - \" + type(segment)]": [
+      "Darjeeling-Rimbik - PublicTransport",
+      "Rimbik-Sirikhola - twowheeler",
+      "Sirikhola-Rammam - twowheeler",
+      "Rammam-Gurdum - twowheeler",
+      "Gurdum-Sandakphu - trek"
+    ],
+    "distance": 48
+  },
+  {
+    "[segment IN relationships(path) | segment.name + \" - \" + type(segment)]": [
+      "Darjeeling-Rimbik - PublicTransport",
+      "Rimbik-Sirikhola - twowheeler",
+      "Sirikhola-Rammam - twowheeler",
+      "Rammam-Gurdum - road",
+      "Gurdum-Sandakphu - twowheeler"
+    ],
+    "distance": 48
+  },
+  {
+    "[segment IN relationships(path) | segment.name + \" - \" + type(segment)]": [
+      "Darjeeling-Rimbik - PublicTransport",
+      "Rimbik-Sirikhola - twowheeler",
+      "Sirikhola-Rammam - twowheeler",
+      "Rammam-Gurdum - road",
+      "Gurdum-Sandakphu - trek"
+    ],
+    "distance": 48
+  },
+  {
+    "[segment IN relationships(path) | segment.name + \" - \" + type(segment)]": [
+      "Darjeeling-Rimbik - PublicTransport",
+      "Rimbik-Sirikhola - twowheeler",
+      "Sirikhola-Rammam - twowheeler",
+      "Rammam-Gurdum - trek",
+      "Gurdum-Sandakphu - twowheeler"
+    ],
+    "distance": 48
+  },
+  {
+    "[segment IN relationships(path) | segment.name + \" - \" + type(segment)]": [
+      "Darjeeling-Rimbik - PublicTransport",
+      "Rimbik-Sirikhola - twowheeler",
+      "Sirikhola-Rammam - twowheeler",
+      "Rammam-Gurdum - trek",
+      "Gurdum-Sandakphu - trek"
+    ],
+    "distance": 48
+  },
+  {
+    "[segment IN relationships(path) | segment.name + \" - \" + type(segment)]": [
+      "Darjeeling-Rimbik - PublicTransport",
+      "Rimbik-Sirikhola - twowheeler",
+      "Sirikhola-Rammam - trek",
+      "Rammam-Gurdum - twowheeler",
+      "Gurdum-Sandakphu - twowheeler"
+    ],
+    "distance": 48
+  },
+  {
+    "[segment IN relationships(path) | segment.name + \" - \" + type(segment)]": [
+      "Darjeeling-Rimbik - PublicTransport",
+      "Rimbik-Sirikhola - twowheeler",
+      "Sirikhola-Rammam - trek",
+      "Rammam-Gurdum - twowheeler",
+      "Gurdum-Sandakphu - trek"
+    ],
+    "distance": 48
+  },
+  {
+    "[segment IN relationships(path) | segment.name + \" - \" + type(segment)]": [
+      "Darjeeling-Rimbik - PublicTransport",
+      "Rimbik-Sirikhola - twowheeler",
+      "Sirikhola-Rammam - trek",
+      "Rammam-Gurdum - road",
+      "Gurdum-Sandakphu - twowheeler"
+    ],
+    "distance": 48
+  },
+  {
+    "[segment IN relationships(path) | segment.name + \" - \" + type(segment)]": [
+      "Darjeeling-Rimbik - PublicTransport",
+      "Rimbik-Sirikhola - twowheeler",
+      "Sirikhola-Rammam - trek",
+      "Rammam-Gurdum - road",
+      "Gurdum-Sandakphu - trek"
+    ],
+    "distance": 48
+  },
+  {
+    "[segment IN relationships(path) | segment.name + \" - \" + type(segment)]": [
+      "Darjeeling-Rimbik - PublicTransport",
+      "Rimbik-Sirikhola - twowheeler",
+      "Sirikhola-Rammam - trek",
+      "Rammam-Gurdum - trek",
+      "Gurdum-Sandakphu - twowheeler"
+    ],
+    "distance": 48
+  },
+  {
+    "[segment IN relationships(path) | segment.name + \" - \" + type(segment)]": [
+      "Darjeeling-Rimbik - PublicTransport",
+      "Rimbik-Sirikhola - twowheeler",
+      "Sirikhola-Rammam - trek",
+      "Rammam-Gurdum - trek",
+      "Gurdum-Sandakphu - trek"
+    ],
+    "distance": 48
+  },
+  {
+    "[segment IN relationships(path) | segment.name + \" - \" + type(segment)]": [
+      "Darjeeling-Rimbik - PublicTransport",
+      "Rimbik-Sirikhola - trek",
+      "Sirikhola-Rammam - twowheeler",
+      "Rammam-Gurdum - twowheeler",
+      "Gurdum-Sandakphu - twowheeler"
+    ],
+    "distance": 48
+  },
+  {
+    "[segment IN relationships(path) | segment.name + \" - \" + type(segment)]": [
+      "Darjeeling-Rimbik - PublicTransport",
+      "Rimbik-Sirikhola - trek",
+      "Sirikhola-Rammam - twowheeler",
+      "Rammam-Gurdum - twowheeler",
+      "Gurdum-Sandakphu - trek"
+    ],
+    "distance": 48
+  },
+  {
+    "[segment IN relationships(path) | segment.name + \" - \" + type(segment)]": [
+      "Darjeeling-Rimbik - PublicTransport",
+      "Rimbik-Sirikhola - trek",
+      "Sirikhola-Rammam - twowheeler",
+      "Rammam-Gurdum - road",
+      "Gurdum-Sandakphu - twowheeler"
+    ],
+    "distance": 48
+  },
+  {
+    "[segment IN relationships(path) | segment.name + \" - \" + type(segment)]": [
+      "Darjeeling-Rimbik - PublicTransport",
+      "Rimbik-Sirikhola - trek",
+      "Sirikhola-Rammam - twowheeler",
+      "Rammam-Gurdum - road",
+      "Gurdum-Sandakphu - trek"
+    ],
+    "distance": 48
+  },
+  {
+    "[segment IN relationships(path) | segment.name + \" - \" + type(segment)]": [
+      "Darjeeling-Rimbik - PublicTransport",
+      "Rimbik-Sirikhola - trek",
+      "Sirikhola-Rammam - twowheeler",
+      "Rammam-Gurdum - trek",
+      "Gurdum-Sandakphu - twowheeler"
+    ],
+    "distance": 48
+  },
+  {
+    "[segment IN relationships(path) | segment.name + \" - \" + type(segment)]": [
+      "Darjeeling-Rimbik - PublicTransport",
+      "Rimbik-Sirikhola - trek",
+      "Sirikhola-Rammam - twowheeler",
+      "Rammam-Gurdum - trek",
+      "Gurdum-Sandakphu - trek"
+    ],
+    "distance": 48
+  },
+  {
+    "[segment IN relationships(path) | segment.name + \" - \" + type(segment)]": [
+      "Darjeeling-Rimbik - PublicTransport",
+      "Rimbik-Sirikhola - trek",
+      "Sirikhola-Rammam - trek",
+      "Rammam-Gurdum - twowheeler",
+      "Gurdum-Sandakphu - twowheeler"
+    ],
+    "distance": 48
+  },
+  {
+    "[segment IN relationships(path) | segment.name + \" - \" + type(segment)]": [
+      "Darjeeling-Rimbik - PublicTransport",
+      "Rimbik-Sirikhola - trek",
+      "Sirikhola-Rammam - trek",
+      "Rammam-Gurdum - twowheeler",
+      "Gurdum-Sandakphu - trek"
+    ],
+    "distance": 48
+  },
+  {
+    "[segment IN relationships(path) | segment.name + \" - \" + type(segment)]": [
+      "Darjeeling-Rimbik - PublicTransport",
+      "Rimbik-Sirikhola - trek",
+      "Sirikhola-Rammam - trek",
+      "Rammam-Gurdum - road",
+      "Gurdum-Sandakphu - twowheeler"
+    ],
+    "distance": 48
+  },
+  {
+    "[segment IN relationships(path) | segment.name + \" - \" + type(segment)]": [
+      "Darjeeling-Rimbik - PublicTransport",
+      "Rimbik-Sirikhola - trek",
+      "Sirikhola-Rammam - trek",
+      "Rammam-Gurdum - road",
+      "Gurdum-Sandakphu - trek"
+    ],
+    "distance": 48
+  },
+  {
+    "[segment IN relationships(path) | segment.name + \" - \" + type(segment)]": [
+      "Darjeeling-Rimbik - PublicTransport",
+      "Rimbik-Sirikhola - trek",
+      "Sirikhola-Rammam - trek",
+      "Rammam-Gurdum - trek",
+      "Gurdum-Sandakphu - twowheeler"
+    ],
+    "distance": 48
+  },
+  {
+    "[segment IN relationships(path) | segment.name + \" - \" + type(segment)]": [
+      "Darjeeling-Rimbik - PublicTransport",
+      "Rimbik-Sirikhola - trek",
+      "Sirikhola-Rammam - trek",
+      "Rammam-Gurdum - trek",
+      "Gurdum-Sandakphu - trek"
+    ],
+    "distance": 48
+  },
+  {
+    "[segment IN relationships(path) | segment.name + \" - \" + type(segment)]": [
+      "Darjeeling-Rimbik - trek",
+      "Rimbik-Sirikhola - twowheeler",
+      "Sirikhola-Rammam - twowheeler",
+      "Rammam-Sabargram - trek",
+      "Rammam-Sabargram - trek"
+    ],
+    "distance": 55
+  },
+  {
+    "[segment IN relationships(path) | segment.name + \" - \" + type(segment)]": [
+      "Darjeeling-Rimbik - trek",
+      "Rimbik-Sirikhola - twowheeler",
+      "Sirikhola-Rammam - trek",
+      "Rammam-Sabargram - trek",
+      "Rammam-Sabargram - trek"
+    ],
+    "distance": 55
+  },
+  {
+    "[segment IN relationships(path) | segment.name + \" - \" + type(segment)]": [
+      "Darjeeling-Rimbik - trek",
+      "Rimbik-Sirikhola - trek",
+      "Sirikhola-Rammam - twowheeler",
+      "Rammam-Sabargram - trek",
+      "Rammam-Sabargram - trek"
+    ],
+    "distance": 55
+  },
+  {
+    "[segment IN relationships(path) | segment.name + \" - \" + type(segment)]": [
+      "Darjeeling-Rimbik - trek",
+      "Rimbik-Sirikhola - trek",
+      "Sirikhola-Rammam - trek",
+      "Rammam-Sabargram - trek",
+      "Rammam-Sabargram - trek"
+    ],
+    "distance": 55
+  },
+  {
+    "[segment IN relationships(path) | segment.name + \" - \" + type(segment)]": [
+      "Darjeeling-Rimbik - road",
+      "Rimbik-Sirikhola - twowheeler",
+      "Sirikhola-Rammam - twowheeler",
+      "Rammam-Sabargram - trek",
+      "Rammam-Sabargram - trek"
+    ],
+    "distance": 55
+  },
+  {
+    "[segment IN relationships(path) | segment.name + \" - \" + type(segment)]": [
+      "Darjeeling-Rimbik - road",
+      "Rimbik-Sirikhola - twowheeler",
+      "Sirikhola-Rammam - trek",
+      "Rammam-Sabargram - trek",
+      "Rammam-Sabargram - trek"
+    ],
+    "distance": 55
+  },
+  {
+    "[segment IN relationships(path) | segment.name + \" - \" + type(segment)]": [
+      "Darjeeling-Rimbik - road",
+      "Rimbik-Sirikhola - trek",
+      "Sirikhola-Rammam - twowheeler",
+      "Rammam-Sabargram - trek",
+      "Rammam-Sabargram - trek"
+    ],
+    "distance": 55
+  },
+  {
+    "[segment IN relationships(path) | segment.name + \" - \" + type(segment)]": [
+      "Darjeeling-Rimbik - road",
+      "Rimbik-Sirikhola - trek",
+      "Sirikhola-Rammam - trek",
+      "Rammam-Sabargram - trek",
+      "Rammam-Sabargram - trek"
+    ],
+    "distance": 55
+  },
+  {
+    "[segment IN relationships(path) | segment.name + \" - \" + type(segment)]": [
+      "Darjeeling-Rimbik - PublicTransport",
+      "Rimbik-Sirikhola - twowheeler",
+      "Sirikhola-Rammam - twowheeler",
+      "Rammam-Sabargram - trek",
+      "Rammam-Sabargram - trek"
+    ],
+    "distance": 55
+  },
+  {
+    "[segment IN relationships(path) | segment.name + \" - \" + type(segment)]": [
+      "Darjeeling-Rimbik - PublicTransport",
+      "Rimbik-Sirikhola - twowheeler",
+      "Sirikhola-Rammam - trek",
+      "Rammam-Sabargram - trek",
+      "Rammam-Sabargram - trek"
+    ],
+    "distance": 55
+  },
+  {
+    "[segment IN relationships(path) | segment.name + \" - \" + type(segment)]": [
+      "Darjeeling-Rimbik - PublicTransport",
+      "Rimbik-Sirikhola - trek",
+      "Sirikhola-Rammam - twowheeler",
+      "Rammam-Sabargram - trek",
+      "Rammam-Sabargram - trek"
+    ],
+    "distance": 55
+  },
+  {
+    "[segment IN relationships(path) | segment.name + \" - \" + type(segment)]": [
+      "Darjeeling-Rimbik - PublicTransport",
+      "Rimbik-Sirikhola - trek",
+      "Sirikhola-Rammam - trek",
+      "Rammam-Sabargram - trek",
+      "Rammam-Sabargram - trek"
+    ],
+    "distance": 55
+  }
+]
