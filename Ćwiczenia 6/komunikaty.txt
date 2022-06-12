@@ -1,0 +1,23 @@
+Utworzenie nowego dokumentu
+No Content
+
+
+Pobranie i wypisanie dokumentu
+OK
+{"need-fix":true,"brand":"Opel","production-year":2004,"fuel-consumption":6.5}
+
+Aktualizacja dokumentu
+No Content
+
+
+Pobranie i wypisanie zaktualizowanego dokumentu
+OK
+{"need-fix":true,"brand":"Opel","production-year":2004,"fuel-consumption":"8.0"}
+
+Usuniecie dokumentu
+No Content
+No Content
+
+
+Pobranie i wypisanie usunietego dokumentu
+Object Not Found
